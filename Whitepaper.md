@@ -3,7 +3,7 @@ RedChillies to Fuel the Gaming Platform on Zilliqa
 
 Last Updated: March 6, 2021 
 
-- [Home Page](https://www.redchillieszil.com)
+- [Home Page](https://www.zilchill.com)
 
 ## Abstract
 >With peer-to-peer gaming platform, people do not need to depend on centralized entities to play games or to receive rewards. On top of this, the game result that could be verified by anyone and accessible to everyone would bring true "fair play". Utilizing the high throughput and negligible transaction cost of Zilliqa blockchain, we propose a solution to bring decentralization into gaming platform. Anyone can engaged to host the game by using the RedChillies token and anyone can participate to play the game using Zil token. Results would be verified in smart contracts through voting system. And reward claims are distributed from storing Zil and REDC used in each game adding fresh RedChillies from Reward Wallet, which are distributed to hosts, winning players, developers and governors. As long as there remains majority of honest hosts, players and voters, system remains safe from attackers. 
@@ -97,11 +97,13 @@ e) Random player will also get 10% REDC tokens.</br>
 
 ## Smart Contract Details
 
-REDC ZRC-2 Token Contract : https://viewblock.io/zilliqa/address/zil14jmjrkvfcz2uvj3y69kl6gas34ecuf2j5ggmye
+REDC ZRC-2 Token Contract    : https://viewblock.io/zilliqa/address/zil14jmjrkvfcz2uvj3y69kl6gas34ecuf2j5ggmye
 
-REDC Treasury Contract    : https://viewblock.io/zilliqa/address/zil1ycgaau87e5qz92f6pjacyhj4n83fppltfdzha8
+REDC Treasury Contract       : https://viewblock.io/zilliqa/address/zil1ycgaau87e5qz92f6pjacyhj4n83fppltfdzha8
 
-Bet Games Contract        : https://viewblock.io/zilliqa/address/zil1upsmt9e87pprykwn4e0uua98f3jzaf6lnkgpdw
+Bet Games Contract           : https://viewblock.io/zilliqa/address/zil1upsmt9e87pprykwn4e0uua98f3jzaf6lnkgpdw
+
+Cricket Prediction Contract  : https://viewblock.io/zilliqa/address/zil1tpgnx5qwzypnky0mu684nmemrcwfdr7hnlerye
 
 
 ## Roadmap of RedChillies
