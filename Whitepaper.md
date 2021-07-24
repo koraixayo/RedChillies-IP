@@ -1,5 +1,5 @@
 ## <img src="https://avatars3.githubusercontent.com/u/73444583?s=200&v=4" width = "50 px" /> RedChillies (REDC)
-RedChillies (REDC) is a governance token with utility features of RedChillies Labs, Inc. RedChillies Labs is a US-based company that contributes in development of decentralized application to support mass adoption of blockchain technology. REDC token is used primarily in ZilChill platform for gaming and governance purposes, while there can be additional utility use-cases of REDC in collaborated dApps; making REDC a cross-chain and multi-app token.
+RedChillies (REDC) is a governance token with utility features of "RedChillies Labs, Inc.", a US-based company that contributes in development of decentralized application to support mass adoption of blockchain technology. REDC token is used primarily in ZilChill platform for gaming and governance purposes, while there can be additional utility use-cases of REDC in collaborated dApps; making REDC a cross-chain and multi-app token.
 
 Last Updated: July 24, 2021 
 
