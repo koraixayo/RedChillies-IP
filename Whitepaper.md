@@ -1,5 +1,5 @@
 ## <img src="https://avatars3.githubusercontent.com/u/73444583?s=200&v=4" width = "50 px" /> RedChillies (REDC)
-RedChillies symbolized as REDC is a governance + utility token of RedChillies Labs, Inc. RedChillies Labs is a US-based company that contributes to dApps built on Zilliqa Blockchain focusing on (a) prediction market, (b) gaming
+RedChillies (REDC) is a governance token with utility features of RedChillies Labs, Inc. RedChillies Labs is a US-based company that contributes in development of decentralized application to support mass adoption of blockchain technology. REDC token is used primarily in ZilChill platform for gaming and governance purposes, while there can be additional utility use-cases of REDC in collaborated dApps; making REDC a cross-chain and multi-app token.
 
 Last Updated: July 9, 2021 
 
@@ -7,35 +7,47 @@ Last Updated: July 9, 2021
 - [ZilChill Gaming Platform](https://zilchill.com)
 
 ## Abstract
->With peer-to-peer gaming platform, people do not need to depend on centralized entities to play games or to receive game rewards. On top of this, the game result that could be verified by anyone and accessible to everyone would bring true "fair play". Utilizing the high throughput and negligible transaction cost of Zilliqa blockchain, we propose a solution to bring decentralization into gaming platform. Anyone can engaged to host a game by using the RedChillies token and anyone can participate to play the game using Zil token. Results can be verified in smart contracts. And reward claims are distributed from storing Zil and REDC used in each game adding fresh RedChillies from Reward Wallet, which are distributed to hosts, winning players, developers and governors. As long as there remains majority of honest hosts, players and voters, system remains safe from attackers. 
+>With peer-to-peer gaming platform, people do not need to depend on centralized entities to play games or to receive game rewards. On top of this, the game result that could be verified by anyone and accessible to everyone would bring true "fair play". Utilizing the high throughput and negligible transaction cost of Zilliqa blockchain, we propose a solution to bring decentralization into gaming platform. Anyone can engaged to host a game by using the RedChillies token and anyone can participate to play the game using ZIL token (will be replaced by stablecoin in future). Results can be verified in smart contracts. And reward claims are distributed from stored Zil and REDC used in each game adding fresh RedChillies from Reward Wallet. Rewards are distributed to hosts, winning players, developers and governors. As long as there remains majority of honest hosts, players and voters, system remains safe from attackers. 
 
 ## Introduction
 Blockchain Technology is more than just a technology; it represents our ultimate fight for freedom; a path towards complete accessibility, security and ownership that can't be tampered. This is more like a freedom song written in code. And the path of Blockchain Technology towards mass adoption is inevitable. In this early stage of Web 3.0, there is much more need of bringing applications which are easy, yet fun, for people. The best way to teach people about blockchain technology is by making Dapps (Decentralized Applications) that people interact with. Gaming is one of the largest online sector for user engagement and revenue circulation. Gaming dapps will not only educate people about blockchain technology, it can be equally rewarding and connecting more people with complete ownership of their data, access and earnings. Taking this vision, we propose RedChillies on Zilliqa blockchain to fuel the gaming industry and bring user engagement into blockchain ecosystem.
 
-The gaming platform that we intend to bring will utilize ZRC-2 complaint REDC token and native Zil token. REDC token will act as gas fee to host new games where players can bet Zil tokens to get rewards. Utilizing REDC tokens as host fee as well as reward, RedChillies would enable and sustain more game developers, hosts and players to grow in the ecosystem.
+The gaming platform that we intend to bring will utilize ZRC-2 compliant REDC token and native ZIL token (or ZRC-2 stablecoin). REDC token will act as primary fuel to host (create) new games where players can use ZIL tokens for in-game activities. In future, a stablecoin of Zilliqa ecosystem will replace the ZIL token for playing games. 
+Utilizing REDC tokens as host fee and ZIL (or stablecoin) as in-game play, RedChillies enables and sustains more game developers, hosts and players to grow within the Zilliqa ecosystem.
 
 ## The Curious Case of Zilliqa Selection
-Online gamers always care the most about 4 things: "no fees", "speed", "win reward" and "fair play". Our gaming platform will always target to achieve these 4 goals. And the decision to build RedChillies on Zilliqa blockchain comes through this same mindset. Zilliqa blockchain utilizes Practical Byzantine Fault Tolerance (PBFT) consensus mechanism and sharding techniques for high throughput and low transaction cost enabling highly scalable projects.
+Online gamers always care the most about 4 things: "no fees", "speed", "win reward" and "fair play". Our gaming platform always targets to achieve these 4 goals. And the decision to build RedChillies on Zilliqa blockchain comes through this same mindset. Zilliqa blockchain utilizes Practical Byzantine Fault Tolerance (PBFT) consensus mechanism and sharding techniques for high throughput and low transaction cost enabling highly scalable projects.
 
 Along with high speed and low transaction cost, Zilliqa provides top-notch ecosystem for millions of users across Dapp, DeFi, Exchange, Finance & Marketplace. RedChillies has its roadmap aligned to collaborate with Zilliqa core team & Zillacracy and utilize all networks and partnerships for mass adoption.
 
 ## ZilChill as a Gaming Platform
-ZilChill is a decentralized gaming platform where REDC tokens are utilized for playing games. This platform has defined four types of users: Game Developer, Game Host, Game Player and Game Governor. 
+ZilChill is a decentralized gaming platform where REDC tokens are utilized for governance and hosting games. ZilChill provides gaming services under two categories: (a) Prediction Market Games (b) Real-time Multiplayer Games. 
 
-<b>Game Developer:</b> RedChillies will provide efficient tools for game developers to integrate web-based games with Zilliqa blockchain in near future. Initial phase 0 will focus on game developments curated by core team to stabilize the system. There will be 3 games in Phase 0 as Prediction Games, Ludo Dice, and Advanced Prediction Market. ZilChill will open its gaming platform for other game developers in Phase 1. There will be no impact in REDC tokenomics while transitioning from Phase 0 to Phase 1. For every game played, developer of that game receives 5% of prize pool amount.
+This platform has defined four types of users: Game Developer, Game Host, Game Player and Game Governor. 
+
+<b>Game Developer:</b> RedChillies provides grants and efficient tools for game developers to integrate games with Zilliqa blockchain in near future. Initial phase will focus on game developments curated by RedChillies Labs' core team to stabilize the ecosystem. There are 3 games in initial Phase:<br>
+| Category -> | Prediction Market Games (PMG)             | Real-time Multiplayer Games (RMG)   | Third-party Games (TPG) |
+| ----------- | ----------------------------------------- | ----------------------------------- | :--------------------:  |
+| Q1 2021     | Peer-to-peer Sports Prediction (Football) |                                     |                         |
+| Q2 2021     | Peer-to-peer Sports Prediction (Cricket)  |                                     |                         |
+| Q3 2021     |                                           |  Ludo Dice                          |                         |
+| Q4 2021     | Advanced Prediction Market (Customizable) |                                     |                         |
+| Q1 2022     |                                           |                                     | Scheduled (RMG)         |
+
+ZilChill will open its gaming platform for other game developers in Phase 1 scheduled on Q1 2022. There will be no impact in REDC tokenomics while transitioning from initial Phase to Phase 1. For every game played, oracle of that game receives 5% of prize pool amount.
 
 <b>Game Host:</b> Each game available in ZilChill platform needs to be hosted by user to make it available for players to join the game. Instances of games are thus created by users themselves to become the Game Host by paying REDC token. Game Hosts are rewarded with 10% of prize pool in each hosted game. For any hosted game which fails receive players will suffer the loss of host fee.
 
-<b>Game Player:</b> Anyone having Zil tokens can participate in any hosted game which is not yet started. Game players need to bet at least 20 Zil token via ZilPay wallet. Winners of each game are rewarded 80% of prize pool amount. For any game betted which fails to start, players will be refunded for their Zil.
+<b>Game Player:</b> Anyone having ZIL tokens (will be replaced by ZRC-2 stablecoin in future) can participate in any hosted game which is not yet started or completed. Game players need at least 20 Zil token for playing which can be transacted via ZilPay wallet. Winners of each game are rewarded 80% of prize pool amount. For any game which fails to start, players will be able to claim the spend amount as refund.
 
-<b>Game Governor:</b> We want to make all platforms/dApps of RedChillies - a community driven project. Holders of REDC tokens will have voting power. Each of the game results will need "verification" before rewards can be claimed. Voting power counteracts any attackers or events who/which dishonestly or unfortunately influence the game results. Anyone with more than 1000 REDC tokens are called Game Governor and they receive 5% of prize pool amount from each game.
+<b>Game Governor:</b> We want to make all platforms/dApps of RedChillies - a community driven project. Holders of REDC tokens have voting power. Each of the game results need "verification" before rewards can be claimed. Voting power counteracts any attackers or events who/which dishonestly or unfortunately influence the game results. Anyone with more than 100 REDC tokens (decided by [voting](https://vote.zilliqa.com/#/redc/proposal/QmYjmUnWW2PDDst3ZzrgrjZpQUjAZcmZXMgnHcQ6Gs3PUn)) are called Game Governor and they receive 5% of prize pool amount from each game.
 
 ## Tokenomics of RedChillies token
-All native dApps of RedChillies Labs will operate in REDC token with max supply of 2 millions REDC tokens. REDC is a ZRC-2 compliant fungible token which will primarily act as a gas fee to host any games. Every hosted game will costs REDC token. RedChillies are distributed from leaderboard pool max 4 parties (Game Developer, Game Host, Game Player and Game Governor); thus maintaining inflation rate and implementing fair distribution of token supply.
+All native dApps of RedChillies Labs will operate in REDC token with max supply of 2 millions REDC tokens. REDC is a ZRC-2 compliant fungible token which will primarily act as a gas fee to host any games. Every hosted game will cost REDC token. RedChillies token are also distributed from leaderboard pool to max 4 parties (Game Developer, Game Host, Game Player and Game Governor); thus maintaining inflation rate and implementing fair distribution of token supply.
 
 Initial minting of 2,000,000 REDC tokens are simply distributed for locking rewards, building ecosystem and providing liquidity in exchanges (dex/cex). 1,000,000 REDC tokens are locked for distributing REDC per game played, 300,000 REDC tokens are reserved for team with vesting schedule of 24 months, 600,000 REDC tokens will be available in exchanges and 100,000 REDC tokens will be distributed in marketing campaign or bounty hunt. There will be no private sale or initial offerings of REDC tokens. When "Game Reward Locked" goes to zero, game hosting fee may get adjusted (this will be decided from voting by REDC holers).
 
-Phase 0 starts in November 2020 when users are able to participate in RedChillies games. With each hosted games, 1 to 10 RedChillies as host fees goes to Reward Wallet and with every game-result, 2 RedChillies are distributed from Reward Wallet.
+Initial Phase started in December 2020 when users are able to participate in RedChillies games. With each hosted games, 0.1 to 10 RedChillies as host fees goes to Reward Wallet and with every game-result, 0.2 RedChillies token are distributed from Reward Wallet.
 
 | Phases   | Involved Parties                          | Token Supply (REDC)     | Percentage Own |
 | -------- | ----------------------------------------- | ----------------------- | :-----------:  |
@@ -45,7 +57,7 @@ Phase 0 starts in November 2020 when users are able to participate in RedChillie
 | Minting  | Team Development                          |   300,000               |      15%       |
 |          | Max Supply                                | 2,000,000               |     100%       |
 
-<img src="https://i.ibb.co/rxX5z2R/Picture1.png" alt="Token Supply" height="300" border="0">
+<img src="https://ibb.co/CzZcRwP" alt="REDC Token Supply" border="0">
 
 ## Games of RedChillies
 Phase 0 targets to develop 3 games by RedChillies team: Prediction Games, Ludo Dice, and Advanced Prediction Games. "Prediction Games" was launched in November 2020 supporting ZilPay wallets.
