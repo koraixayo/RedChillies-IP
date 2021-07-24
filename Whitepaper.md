@@ -112,7 +112,7 @@ e) Random player will also get 10% REDC tokens.</br></br>
 
 Ludo Dice is the first real-time multiplayer game published in ZilChill platform. It is "strategy board game without partnership" and played among 2 to 4 players. Each player is assigned 4 tokens with a goal to move those 4 tokens in "Home" zone by rolling a dice.
 
-<a href="https://ibb.co/tKKvwHQ"><img src="https://i.ibb.co/mTT2rRb/Screen-Shot-2021-07-13-at-11-32-38-AM.png" alt="Screen-Shot-2021-07-13-at-11-32-38-AM" border="0" /></a>
+<img src="https://i.ibb.co/mTT2rRb/Screen-Shot-2021-07-13-at-11-32-38-AM.png" alt="Screen-Shot-2021-07-13-at-11-32-38-AM" border="0" />
 
 
 <b>3. Future Games:</b>  Advanced Prediction Market - Q4 2020
