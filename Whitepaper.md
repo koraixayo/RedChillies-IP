@@ -28,11 +28,11 @@ This platform has defined four types of users: Game Developer, Game Host, Game P
 <b>Game Developer:</b> RedChillies provides grants and efficient tools for game developers to integrate games with Zilliqa blockchain in near future. Initial phase will focus on game developments curated by RedChillies Labs' core team to stabilize the ecosystem. There are 4 games in initial Phase:<br>
 | Category -> | Prediction Market Games (PMG)             | Real-time Multiplayer Games (RMG)   | Third-party Games (TPG) |
 | ----------- | ----------------------------------------- | ----------------------------------- | :--------------------:  |
-| Q1 2021     | Peer-to-peer Sports Prediction (Football) |                                     |                         |
-| Q2 2021     | Peer-to-peer Sports Prediction (Cricket)  |                                     |                         |
-| Q3 2021     |                                           |  Ludo Dice                          |                         |
-| Q4 2021     | Advanced Prediction Market (Customizable) |                                     |                         |
-| Q1 2022     |                                           |                                     | Scheduled (RMG)         |
+| Q1 2021     | Peer-to-peer Sports Prediction (Football) |                    -                |            -            |
+| Q2 2021     | Peer-to-peer Sports Prediction (Cricket)  |                    -                |            -            |
+| Q3 2021     |                               -           |  Ludo Dice                          |            -            |
+| Q4 2021     | Advanced Prediction Market (Customizable) |                    -                |            -            |
+| Q1 2022     |                             TBA           |                    -                | Scheduled (RMG)         |
 
 ZilChill will open its gaming platform for other game developers in Phase 1 scheduled on Q1 2022. There will be no impact in REDC tokenomics while transitioning from initial Phase to Phase 1. For every game played, oracle of that game receives 5% of prize pool amount.
 
@@ -50,7 +50,6 @@ Initial minting of 2,000,000 REDC tokens are simply distributed for locking rewa
 Initial Phase started in December 2020 when users are able to participate in RedChillies games. With each hosted games, 0.1 to 10 RedChillies as host fees goes to Reward Wallet and with every game-result, 0.2 RedChillies token are distributed from Reward Wallet.
 
 | Phases   | Involved Parties                          | Token Supply (REDC)     | Percentage Own | 
-
 | -------- | ----------------------------------------- | ----------------------- | :-----------:  |
 | Minting  | Game Reward Locked                        | 1,000,000               |      50%       |
 | Minting  | Exchanges                                 |   600,000               |      30%       |
