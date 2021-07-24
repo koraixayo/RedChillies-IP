@@ -57,12 +57,12 @@ Initial Phase started in December 2020 when users are able to participate in Red
 | Minting  | Team Development                          |   300,000               |      15%       |
 |          | Max Supply                                | 2,000,000               |     100%       |
 
-<a href="https://ibb.co/CzZcRwP"><img src="https://i.ibb.co/JK41Dc3/REDC-Tokenomics.jpg" alt="REDC-Tokenomics" border="0" /></a>
+<img src="https://i.ibb.co/JK41Dc3/REDC-Tokenomics.jpg" alt="REDC-Tokenomics" border="0" />
 
 ## Games of ZilChill
 Initial Phase targets to develop 4 games by RedChillies Labs' team: Peer-to Peer Sports Prediction (Football), Peer-to Peer Sports Prediction (Cricket), Ludo Dice, and Advanced Prediction Market. "Peer-to=peer Sports Prediction (Football)" was launched in December 2020 supporting ZilPay wallets.
 
-<a href="https://ibb.co/JdCM2dg"><img src="https://i.ibb.co/SxJ90xG/Screen-Shot-2021-07-24-at-2-35-51-AM.png" alt="Screen-Shot-2021-07-24-at-2-35-51-AM" border="0" /></a>
+<img src="https://i.ibb.co/SxJ90xG/Screen-Shot-2021-07-24-at-2-35-51-AM.png" alt="Screen-Shot-2021-07-24-at-2-35-51-AM" border="0" />
 
 <b>1. Peer-to-peer Sports Prediction: Football, Cricket</b> 
 
@@ -110,9 +110,11 @@ e) Random player will also get 10% REDC tokens.</br></br>
 
 <b>2. Real-time Multiplayer Games: Ludo Dice</b> 
 
-Ludo Dice is the first real-time multiplayer game published in ZilChill platform. It is "strategy board game without partnership" and played among 2 to 4 players. Each player is assigned 4 tokens with a goal to move those 4 tokens in "Home" zone by rolling a dice.
+Ludo Dice is the first real-time multiplayer game published in ZilChill platform. It is "strategy board game without partnership" and played among 2 to 4 players. Each player is assigned 4 tokens with a goal to move those 4 tokens in "Home" zone by rolling a dice. </br>
 
 <img src="https://i.ibb.co/mTT2rRb/Screen-Shot-2021-07-13-at-11-32-38-AM.png" alt="Screen-Shot-2021-07-13-at-11-32-38-AM" border="0" />
+</br>
+
 
 
 <b>3. Future Games:</b>  Advanced Prediction Market - Q4 2020
