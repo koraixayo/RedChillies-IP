@@ -66,7 +66,7 @@ Initial Phase targets to develop 4 games by RedChillies Labs' team: Peer-to Peer
 
 <b>1. Peer-to-peer Sports Prediction: Football, Cricket</b> 
 
-Peer-to-peer Sports Prediction Games are "live real sport events" played by users using ZIL tokens (in future to be replaced by ZRC-2 stablecoin). The launch of December 2020 included English Premier League (EPL) and UEFA Champions League game events. There are 3 sections in these Games: Games Available for Hosting, Games Ready for Prediction and Live Games Happening/Completed Games.
+>Peer-to-peer Sports Prediction Games are "live real sport events" played by users using ZIL tokens (in future to be replaced by ZRC-2 stablecoin). The launch of December 2020 included English Premier League (EPL) and UEFA Champions League game events. There are 3 sections in these Games: Games Available for Hosting, Games Ready for Prediction and Live Games Happening/Completed Games.
 
 * Games Available for Hosting: This section displays upcoming real event games which will be played in next 30 days. The games are updated daily in this section. It features "Host Now" functionality; which when clicked allows user to host that game by paying 0.1 to 1 REDC token through ZilPay or Zeeves. Such hosted games are then moved to "Games Ready for Prediction" section. If user wants to host another game before "first hosted game" ends, it will cost 1 REDC token for every other game to host.
 
