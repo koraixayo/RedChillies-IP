@@ -25,7 +25,7 @@ ZilChill is a decentralized gaming platform where REDC tokens are utilized for g
 
 This platform has defined four types of users: Game Developer, Game Host, Game Player and Game Governor. 
 
-<b>Game Developer:</b> RedChillies provides grants and efficient tools for game developers to integrate games with Zilliqa blockchain in near future. Initial phase will focus on game developments curated by RedChillies Labs' core team to stabilize the ecosystem. There are 3 games in initial Phase:<br>
+<b>Game Developer:</b> RedChillies provides grants and efficient tools for game developers to integrate games with Zilliqa blockchain in near future. Initial phase will focus on game developments curated by RedChillies Labs' core team to stabilize the ecosystem. There are 4 games in initial Phase:<br>
 | Category -> | Prediction Market Games (PMG)             | Real-time Multiplayer Games (RMG)   | Third-party Games (TPG) |
 | ----------- | ----------------------------------------- | ----------------------------------- | :--------------------:  |
 | Q1 2021     | Peer-to-peer Sports Prediction (Football) |                                     |                         |
@@ -49,7 +49,7 @@ Initial minting of 2,000,000 REDC tokens are simply distributed for locking rewa
 
 Initial Phase started in December 2020 when users are able to participate in RedChillies games. With each hosted games, 0.1 to 10 RedChillies as host fees goes to Reward Wallet and with every game-result, 0.2 RedChillies token are distributed from Reward Wallet.
 
-| Phases   | Involved Parties                          | Token Supply (REDC)     | Percentage Own | <a href="https://ibb.co/CzZcRwP"><img src="https://i.ibb.co/JK41Dc3/REDC-Tokenomics.jpg" alt="REDC-Tokenomics" border="0" /></a>
+| Phases   | Involved Parties                          | Token Supply (REDC)     | Percentage Own | 
 
 | -------- | ----------------------------------------- | ----------------------- | :-----------:  |
 | Minting  | Game Reward Locked                        | 1,000,000               |      50%       |
@@ -58,44 +58,47 @@ Initial Phase started in December 2020 when users are able to participate in Red
 | Minting  | Team Development                          |   300,000               |      15%       |
 |          | Max Supply                                | 2,000,000               |     100%       |
 
+<a href="https://ibb.co/CzZcRwP"><img src="https://i.ibb.co/JK41Dc3/REDC-Tokenomics.jpg" alt="REDC-Tokenomics" border="0" /></a>
 
 ## Games of RedChillies
-Phase 0 targets to develop 3 games by RedChillies team: Prediction Games, Ludo Dice, and Advanced Prediction Games. "Prediction Games" was launched in November 2020 supporting ZilPay wallets.
+Initial Phase targets to develop 4 games by RedChillies Labs' team: Peer-to Peer Sports Prediction (Football), Peer-to Peer Sports Prediction (Cricket), Ludo Dice, and Advanced Prediction Market. "Peer-to=peer Sports Prediction (Football)" was launched in December 2020 supporting ZilPay wallets.
 
 <img src="https://i.ibb.co/Yk2JCCd/Screen-Shot-2020-10-28-at-10-44-57-AM.png"/>
 
-<b>Prediction Games:</b> 
+<b>Peer-to-peer Sports Prediction:</b> 
 
-Prediction Games are "live real sport events" played by users betting Zil tokens. The launch of November 2020 will include English Premier League (EPL) and UEFA Champions League game events. There will be 3 sections in Bet Games: Games Available for Hosting, Games Ready for Betting and Latest Live Games.
+Peer-to-peer Sports Prediction Games are "live real sport events" played by users using ZIL tokens (in future to be replaced by ZRC-2 stablecoin). The launch of December 2020 included English Premier League (EPL) and UEFA Champions League game events. There are 3 sections in these Games: Games Available for Hosting, Games Ready for Prediction and Live Games Happening/Completed Games.
 
-* Games Available for Hosting: This section will display upcoming games of EPL or Champions League which will be played in next 60 days. The games are updated daily in this section. It features "Host Now" functionality; which when clicked allows user to host that game by paying 1 REDC token through ZilPay. Such hosted games are then moved to "Games Ready for Betting" section. If user wants to host another game before "first hosted game" ends, it will cost 10 REDC token for every games to host.
+* Games Available for Hosting: This section displays upcoming real event games which will be played in next 30 days. The games are updated daily in this section. It features "Host Now" functionality; which when clicked allows user to host that game by paying 0.1 to 1 REDC token through ZilPay or Zeeves. Such hosted games are then moved to "Games Ready for Prediction" section. If user wants to host another game before "first hosted game" ends, it will cost 1 REDC token for every other game to host.
 
-* Games Ready for Betting: This section will display all hosted games. It features "Bet Now" functionality which is only activated before 48 hours of real game start; which when clicked allows user to bet the game in Zil token. A minimum of 100 Zil is required for each bet transaction. There are 3 pools to bet for each game: Win, Draw and Loss. "Bet Now" remains disabled before 48 hours of game starts and also when game actually starts.
+* Games Ready for Prediction: This section displays all the hosted games. It features "Predict Now" functionality which is only activated before 48 hours of real game start; which when clicked allows user to predict the game using ZIL token. A minimum of 20 ZIL is required for each prediction transaction. There are 3 pools to predict for each game: Win, Draw and Loss. "Predict Now" remains disabled before 48 hours of game starts and also when the game actually starts.
 
->Example: To bet on "Manchester United Vs Chelsea" game, WIN pool represents "Game Win By Manchester United"; DRAW pool represents "Game Drawn" and LOSS pool represents "Game loss by Manchester United"
+>Example: To predict "Manchester United Vs Chelsea" game, WIN pool represents "Game Win By Manchester United"; DRAW pool represents "Game Drawn" and LOSS pool represents "Game loss by Manchester United"
 
-* Latest Live Games: This section will display recent or live games happening in real time.
+* Live Games Happening/Completed Games: This section displays live games happening in real time or recently completed games.
 
-Prize Pool: Prize Pool is a sumation of 2 REDC tokens and Zil amounts of lost pool. When a winning player claims the reward, smart contract will distribute "initial bet amount" of that wallet plus prize pool amount based on percentage of bet in winning pool.
+Prize Pool: Prize Pool is a sumation of ZIL amounts of lost pool. When a winning player claims the reward, smart contract will distribute "initial amount" of that wallet plus prize pool amount based on percentage of bet in winning pool.
+Winner's Amount = Prediction Amount + (80% of ZIL from Lost Pools) * (Prediction Amount/Total ZIL amount of Winning Pool)
 
-> If no one bets in a hosted game or if no one bets against a bet, rewards are distributed under same logic of 80% to Winning Pool's wallets, 10% to Game Host and 10% to Developer. If there is no Winning Pool to receive 80% of Prize Pool, funds will remain in REDC wallet & undistributed Zils will be used to distribute players from Leaderboard or buy back REDC tokens from the exchanges to refill Locked Reward Wallets.
+> If no one bets in a hosted game or if no one bets against a bet, rewards are distributed under same logic of 80% to Winning Pool's wallets, 10% to Game Host, 5% to REDC Holders and 5% to Game Oracle. If there is no Winning Pool to receive 80% of Prize Pool, funds will remain in REDC wallet & undistributed ZIL will be used to grant developers or buy back REDC tokens from the exchanges to refill Locked Reward Wallets in future.
 
 <img src="https://i.ibb.co/tJfsvB9/Logic-Red-C.png"/>
 
 Example: If Manchester United won the game "Manchester United Vs Chelsea" and had following bets:
 
 | Game ID                         | Result                                | Bets                    | Total Players | Prize Pool
-| ------------------------------  | ------------------------------------- | ----------------------- | ------------- | :-----------:    |
-| Manchester United Vs Chelsea    | WIN pool won (Manchester United won)  | WIN pool: 1000 Zil      |   2           | 2 REDC + 600 Zil |
-|                                 |                                       | DRAW pool: 500 Zil      |   1           |                  |
-|                                 |                                       | LOSS pool: 100 Zil      |   1           |                  |
+| ------------------------------  | ------------------------------------- | ----------------------- | ------------- | :-------------:    |
+| Manchester United Vs Chelsea    | WIN pool won (Manchester United won)  | WIN pool: 1000 Zil      |   2           | 0.2 REDC + 600 Zil |
+|                                 |                                       | DRAW pool: 500 Zil      |   1           |                    |
+|                                 |                                       | LOSS pool: 100 Zil      |   1           |                    |
 
-In this example, if 2 players of WIN pool had betted 600 Zil : 400 Zil, & "Claim Rewards" feature will give:
+In this example, if 2 players of WIN pool had predicted 600 Zil : 400 Zil, & "Claim Rewards" feature will give:
 
-a) Player 1 who betted 600 Zil: Reward = 600 Zil + 60% of (80% of 600 Zil) = 888 Zil
-b) Player 2 who betted 400 Zil: Reward = 400 Zil + 40% of (80% of 600 Zil) = 592 Zil
-c) Game Host (Phase 0 & Phase 1) : Reward = 10% of 600 Zil = 60 Zil
-d) Game Developer (Phase 0 & Phase 1) : Reward = 10% of 600 Zil = 60 Zil
+a) Player 1 who predicted 600 Zil: Reward = 600 Zil + 60% of (80% of 600 Zil) = 888 Zil
+b) Player 2 who predicted 400 Zil: Reward = 400 Zil + 40% of (80% of 600 Zil) = 592 Zil
+c) Game Host: Reward = 10% of 600 Zil = 60 Zil
+d) Game Oracle : Reward = 5% of 600 Zil = 30 Zil
+e) REDC Holder : Reward = 5% of 600 Zil = 30 Zil
 
 REDC charged from hosting of each game is stored in Treasury Contract for a month. On 1st of every month, Leaderboard Wallet receives these (2 * number of games played last month) REDC from Treasury + Reward Wallet. 
 From Leaderboard Wallet: </br>
@@ -106,7 +109,7 @@ c) Biggest winner from a single game gets 10% REDC tokens.</br>
 d) Most games playing wallet receives 10% REDC tokens.</br>
 e) Random player will also get 10% REDC tokens.</br>
 
-<b>Future Games:</b>  Ludo Dice, Poker, Racing and Shooter
+<b>Future Games:</b>  Advanced Prediction Market - Q4 2020
 
 ## Smart Contract Details
 
@@ -120,7 +123,7 @@ Cricket Prediction Contract  : https://viewblock.io/zilliqa/address/zil1tpgnx5qw
 
 
 ## Roadmap of RedChillies
-RedChillies was initiated while brainstorming potential use cases of ZRC-2 tokens during a discussion in Telegram Group "Zilliqa Official Chat". When Zilswap.io dex launched on October 2020, we minted RedChillies (REDC Token) to provide liquidity on same day. It has been since well received by the zilliqa community. The mere idea changed into promising project when we heard from Zilliqa core team about their willingness to support us. Eventually we gathered 3 developers to release first version of RedChillies independently. We are motivated and driven by the passionate Zilliqa community. Our roadmap reflects the prosperity of our Zilliqa community.
+RedChillies was initiated while brainstorming potential use cases of ZRC-2 tokens during a discussion in Telegram Group "Zilliqa Official Chat". When Zilswap.io dex launched on October 2020, we minted RedChillies (REDC Token) to provide liquidity on same day. It has been since well received by the zilliqa community. The mere idea changed into promising project when we heard from Zilliqa core team about their willingness to support us. Eventually we teamed up 3 developers to release first version of RedChillies independently. We are motivated and driven by the passionate Zilliqa community. Our roadmap reflects the prosperity of our Zilliqa community.
 
 | Phase ID                        |       Goals & Milestones                                   |       Tentative Dates        |
 | ------------------------------  | ---------------------------------------------------------- | ---------------------------- |
@@ -129,21 +132,21 @@ RedChillies was initiated while brainstorming potential use cases of ZRC-2 token
 |                                 | Team Building & Community Development                      |                              |
 |                                 | Finalize v.1 Whitepaper & Develop first game               |                              |
 | ------------------------------  | ---------------------------------------------------------- | ---------------------------- |
-|                 Phase 0         | Launch Bet Games in Zilliqa testnet & mainnet              | Nov 1st - March 31st 2021    |
-|                                 | Develop Ludo, Poker, Racing, Shooter games                 |                              |
+|             Initial Phase       | Launch Prediction Games in Zilliqa testnet & mainnet       | Nov 1st - March 31st 2021    |
+|                                 | Develop 1 more games                                       |                              |
 |                                 | Develop dev tool for gaming                                |                              |
 |                                 | Boostup partnership with Zilliqa ecosystem                 |                              |
 | ------------------------------  | ---------------------------------------------------------- | ---------------------------- |
-|                 Phase 1         | Launch Ludo, Poker, Racing, Shooter games                  | April 1st - Oct 31st 2021    |
+|                 Phase 1         | Launch Multiplayer Ludo Dice games                         | April 1st - Dec 31st 2021    |
 |                                 | Open developer gaming tools for public                     |                              |
 |                                 | Get listed on external exchanges                           |                              |
 |                                 | Develop Game Governance for REDC holders                   |                              |
 | ------------------------------  | ---------------------------------------------------------- | ---------------------------- |
-|                     Phase 2     | Launch Game Governance for REDC holders                    | Nov 1st - March 31st 2022    |
+|                     Phase 2     | Launch Game Governance for REDC holders                    | Jan 1st  2021 - March 31st 2022    |
 |                                 | Focus mobile games integration                             |                              |
 
 
 ## Team & Partnerships
-Currently 2 Blockchain Developers, 2 Full Stack Developers and 1 Operation Maintainer are working on RedChillies.
+Currently 2 Blockchain Developers, 4 Full Stack Developers and 1 Operation Maintainer are working on RedChillies.
 
 We are officially in collaboration with [Zillacracy](https://zillacracy.com/)
