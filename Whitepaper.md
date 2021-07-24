@@ -62,7 +62,7 @@ Initial Phase started in December 2020 when users are able to participate in Red
 ## Games of RedChillies
 Initial Phase targets to develop 4 games by RedChillies Labs' team: Peer-to Peer Sports Prediction (Football), Peer-to Peer Sports Prediction (Cricket), Ludo Dice, and Advanced Prediction Market. "Peer-to=peer Sports Prediction (Football)" was launched in December 2020 supporting ZilPay wallets.
 
-<img src="https://i.ibb.co/Yk2JCCd/Screen-Shot-2020-10-28-at-10-44-57-AM.png"/>
+<a href="https://ibb.co/JdCM2dg"><img src="https://i.ibb.co/SxJ90xG/Screen-Shot-2021-07-24-at-2-35-51-AM.png" alt="Screen-Shot-2021-07-24-at-2-35-51-AM" border="0" /></a>
 
 <b>Peer-to-peer Sports Prediction:</b> 
 
@@ -93,11 +93,11 @@ Example: If Manchester United won the game "Manchester United Vs Chelsea" and ha
 
 In this example, if 2 players of WIN pool had predicted 600 Zil : 400 Zil, & "Claim Rewards" feature will give:
 
-a) Player 1 who predicted 600 Zil: Reward = 600 Zil + 60% of (80% of 600 Zil) = 888 Zil
-b) Player 2 who predicted 400 Zil: Reward = 400 Zil + 40% of (80% of 600 Zil) = 592 Zil
-c) Game Host: Reward = 10% of 600 Zil = 60 Zil
-d) Game Oracle : Reward = 5% of 600 Zil = 30 Zil
-e) REDC Holder : Reward = 5% of 600 Zil = 30 Zil
+a) Player 1 who predicted 600 Zil: Reward = 600 Zil + 60% of (80% of 600 Zil) = 888 Zil</br>
+b) Player 2 who predicted 400 Zil: Reward = 400 Zil + 40% of (80% of 600 Zil) = 592 Zil</br>
+c) Game Host: Reward = 10% of 600 Zil = 60 Zil</br>
+d) Game Oracle : Reward = 5% of 600 Zil = 30 Zil</br>
+e) REDC Holder : Reward = 5% of 600 Zil = 30 Zil</br>
 
 REDC charged from hosting of each game is stored in Treasury Contract for a month. On 1st of every month, Leaderboard Wallet receives these (2 * number of games played last month) REDC from Treasury + Reward Wallet. 
 From Leaderboard Wallet: </br>
