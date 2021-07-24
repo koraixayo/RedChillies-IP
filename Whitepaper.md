@@ -49,7 +49,7 @@ Initial minting of 2,000,000 REDC tokens are simply distributed for locking rewa
 
 Initial Phase started in December 2020 when users are able to participate in RedChillies games. With each hosted games, 0.1 to 10 RedChillies as host fees goes to Reward Wallet and with every game-result, 0.2 RedChillies token are distributed from Reward Wallet.
 
-| Phases   | Involved Parties                          | Token Supply (REDC)     | Percentage Own | 
+| Phases   | Involved Parties for Supply                        | Token Supply (REDC)     | Percentage Own | 
 | -------- | ----------------------------------------- | ----------------------- | :-----------:  |
 | Minting  | Game Reward Locked                        | 1,000,000               |      50%       |
 | Minting  | Exchanges                                 |   600,000               |      30%       |
