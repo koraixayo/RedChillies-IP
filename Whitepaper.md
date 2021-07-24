@@ -77,9 +77,9 @@ Initial Phase targets to develop 4 games by RedChillies Labs' team: Peer-to Peer
 * Live Games Happening/Completed Games: This section displays live games happening in real time or recently completed games.
 
 Prize Pool: Prize Pool is a sumation of ZIL amounts of lost pool. When a winning player claims the reward, smart contract will distribute "initial amount" of that wallet plus prize pool amount based on percentage of bet in winning pool.</br></br>
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Amount = Prediction Amount + (80% of ZIL from Lost Pools) * (Prediction Amount/Total ZIL amount of Winning Pool)`
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Amount = Prediction Amount + (80% of ZIL from Lost Pools) * (Prediction Amount/Total ZIL amount of Winning Pool)`
 
-> If no one bets in a hosted game or if no one bets against a bet, rewards are distributed under same logic of 80% to Winning Pool's wallets, 10% to Game Host, 5% to REDC Holders and 5% to Game Oracle. If there is no Winning Pool to receive 80% of Prize Pool, funds will remain in REDC wallet & undistributed ZIL will be used to grant developers or buy back REDC tokens from the exchanges to refill Locked Reward Wallets in future.
+> If no one predicts in a hosted game or if no one predicts against another prediction, rewards are distributed under same logic of 80% to Winning Pool's wallets, 10% to Game Host, 5% to REDC Holders and 5% to Game Oracle. If there is no Winning Pool to receive 80% of Prize Pool, funds will remain in REDC wallet & undistributed ZIL will be used to grant developers or buy back REDC tokens from the exchanges to refill Locked Reward Wallets in future.
 
 <img src="https://i.ibb.co/tJfsvB9/Logic-Red-C.png"/>
 
