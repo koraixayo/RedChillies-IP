@@ -59,7 +59,7 @@ Initial Phase started in December 2020 when users are able to participate in Red
 
 <a href="https://ibb.co/CzZcRwP"><img src="https://i.ibb.co/JK41Dc3/REDC-Tokenomics.jpg" alt="REDC-Tokenomics" border="0" /></a>
 
-## Games of RedChillies
+## Games of ZilChill
 Initial Phase targets to develop 4 games by RedChillies Labs' team: Peer-to Peer Sports Prediction (Football), Peer-to Peer Sports Prediction (Cricket), Ludo Dice, and Advanced Prediction Market. "Peer-to=peer Sports Prediction (Football)" was launched in December 2020 supporting ZilPay wallets.
 
 <a href="https://ibb.co/JdCM2dg"><img src="https://i.ibb.co/SxJ90xG/Screen-Shot-2021-07-24-at-2-35-51-AM.png" alt="Screen-Shot-2021-07-24-at-2-35-51-AM" border="0" /></a>
