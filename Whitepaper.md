@@ -57,7 +57,7 @@ Initial Phase started in December 2020 when users are able to participate in Red
 | Minting  | Team Development                          |   300,000               |      15%       |
 |          | Max Supply                                | 2,000,000               |     100%       |
 
-<a href="https://ibb.co/CzZcRwP"><img src="https://i.ibb.co/JK41Dc3/REDC-Tokenomics.jpg" alt="REDC-Tokenomics" border="0" /></a>
+<a href="https://ibb.co/CzZcRwP"><img src="https://i.ibb.co/JK41Dc3/REDC-Tokenomics.jpg" alt="REDC-Tokenomics" width="1000" border="0" /></a>
 
 ## Games of RedChillies
 Phase 0 targets to develop 3 games by RedChillies team: Prediction Games, Ludo Dice, and Advanced Prediction Games. "Prediction Games" was launched in November 2020 supporting ZilPay wallets.
