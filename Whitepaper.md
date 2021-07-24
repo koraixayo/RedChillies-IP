@@ -64,7 +64,7 @@ Initial Phase targets to develop 4 games by RedChillies Labs' team: Peer-to Peer
 
 <a href="https://ibb.co/JdCM2dg"><img src="https://i.ibb.co/SxJ90xG/Screen-Shot-2021-07-24-at-2-35-51-AM.png" alt="Screen-Shot-2021-07-24-at-2-35-51-AM" border="0" /></a>
 
-<b>Peer-to-peer Sports Prediction:</b> 
+<b>Peer-to-peer Sports Prediction: Football, Cricket</b> 
 
 Peer-to-peer Sports Prediction Games are "live real sport events" played by users using ZIL tokens (in future to be replaced by ZRC-2 stablecoin). The launch of December 2020 included English Premier League (EPL) and UEFA Champions League game events. There are 3 sections in these Games: Games Available for Hosting, Games Ready for Prediction and Live Games Happening/Completed Games.
 
@@ -106,7 +106,11 @@ a) Top 10 players are rewarded with these 60% REDC tokens based on ranking.</br>
 b) Highest better from a single game gets 10% REDC tokens.</br>
 c) Biggest winner from a single game gets 10% REDC tokens.</br>
 d) Most games playing wallet receives 10% REDC tokens.</br>
-e) Random player will also get 10% REDC tokens.</br>
+e) Random player will also get 10% REDC tokens.</br></br></br>
+
+<b>Real-time Multiplayer Games: Ludo Dice</b> 
+>Info will be updated very soon
+
 
 <b>Future Games:</b>  Advanced Prediction Market - Q4 2020
 
