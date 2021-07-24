@@ -116,13 +116,13 @@ e) Random player will also get 10% REDC tokens.</br></br>
 
 ## Reward Mechanism of REDC Ecosystem
 
-1️⃣ Game Host Reward: 10% of Prize Pool of each game</br>
-2️⃣ Game Winner Reward: 80% of Prize Pool of each game</br>
-3️⃣ Liquidity Mining Reward: 1,212 REDC + 53.125 ZWAP each week</br>
-4️⃣ Leaderboard Reward: 2 * base-host-fee per game monthly</br>
-5️⃣ Game Playing Reward: 808 REDC each week distributed monthly</br>
-6️⃣ Game Governor Reward: 5% of Prize Pool of each game</br>
-7️⃣ Oracle Self-Reward: 5% of Prize Pool of each game</br>
+1️⃣  Game Host Reward: 10% of Prize Pool of each game</br>
+2️⃣  Game Winner Reward: 80% of Prize Pool of each game</br>
+3️⃣  Liquidity Mining Reward: 1,212 REDC + 53.125 ZWAP each week</br>
+4️⃣  Leaderboard Reward: 2 * base-host-fee per game monthly</br>
+5️⃣  Game Playing Reward: 808 REDC each week distributed monthly</br>
+6️⃣  Game Governor Reward: 5% of Prize Pool of each game</br>
+7️⃣  Oracle Self-Reward: 5% of Prize Pool of each game</br>
 
 
 
