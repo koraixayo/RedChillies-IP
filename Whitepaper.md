@@ -126,8 +126,8 @@ There are also 3 sections in Ludo Dice platform: Hosting a Ludo Dice Game, Games
 * Live Games Happening/Completed Games: This section displays live games happening in real time or recently completed games. Anyone can spectate the live game and participate in chat message to support the players.
 
 Prize Pool: Prize Pool is a sumation of ZIL amounts of all players. When a winning player claims the reward, smart contract will distribute ZIL reward amount based on ranking of players.</br></br>
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Host's Reward = 10% of ZIL from Pools`</br>
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Reward = Based on ranking when game completes.`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Host's Reward = 10% of ZIL from Game Pool`</br>
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Reward = 80% Pool Amount distributed based on player's ranking.`
 </br>
 
 Refer to this image below to understand Ludo Game Prize Distribution: </br>
