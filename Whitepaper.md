@@ -134,7 +134,7 @@ Refer to this image below to understand Ludo Game Prize Distribution: </br>
 
 <img src="https://i.ibb.co/QNNQFGQ/Screen-Shot-2021-07-24-at-8-32-58-PM.png" alt="Screen-Shot-2021-07-24-at-8-32-58-PM" border="0" />
 
-<b>3. Future Games:</b>  Advanced Prediction Market - Q4 2020
+<b>3. Future Games:</b>  Advanced Prediction Market - Q4 2021
 
 ## Reward Mechanism of REDC Ecosystem
 
