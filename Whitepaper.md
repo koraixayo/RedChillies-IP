@@ -31,7 +31,7 @@ Initial Phase started in December 2020 when users are able to participate in Red
 | Phases   | Involved Parties for Supply                        | Token Supply (REDC)     | Percentage Own | 
 | -------- | ----------------------------------------- | ----------------------- | :-----------:  |
 | Minting  | Game Reward Locked                        | 1,000,000               |      50%       |
-| Minting  | Exchanges                                 |   600,000               |      30%       |
+| Minting  | Exchanges/Liquidity/Game Playing Rewards  |   600,000               |      30%       |
 | Minting  | Marketing                                 |   100,000               |       5%       |
 | Minting  | Team Development                          |   300,000               |      15%       |
 |          | Max Supply                                | 2,000,000               |     100%       |
