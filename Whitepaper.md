@@ -129,7 +129,7 @@ Prize Pool: Prize Pool is a sumation of ZIL amounts of all players. When a winni
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Reward = Based on ranking when game completes.`
 
 </br>
-<img src="https://i.ibb.co/J271CKF/Screen-Shot-2021-07-24-at-8-27-57-PM.png" alt="Screen-Shot-2021-07-24-at-8-27-57-PM" height="100" border="0" />
+<img src="https://i.ibb.co/J271CKF/Screen-Shot-2021-07-24-at-8-27-57-PM.png" alt="Screen-Shot-2021-07-24-at-8-27-57-PM" height="400" border="0" />
 
 <b>3. Future Games:</b>  Advanced Prediction Market - Q4 2020
 
