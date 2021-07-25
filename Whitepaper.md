@@ -77,7 +77,7 @@ Initial Phase targets to develop 4 games by RedChillies Labs' team: Peer-to Peer
 * Live Games Happening/Completed Games: This section displays live games happening in real time or recently completed games.
 
 Prize Pool: Prize Pool is a sumation of ZIL amounts of lost pool. When a winning player claims the reward, smart contract will distribute "initial amount" of that wallet plus prize pool amount based on percentage of bet in winning pool.</br></br>
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Host's Reward = 10% of ZIL from Lost Pools`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Host's Reward = 10% of ZIL from Lost Pools`</br>
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Reward = Prediction Amount + (80% of ZIL from Lost Pools) * (Prediction Amount/Total ZIL amount of Winning Pool)`
 
 > If no one predicts in a hosted game or if no one predicts against another prediction, rewards are distributed under same logic of 80% to Winning Pool's wallets, 10% to Game Host, 5% to REDC Holders and 5% to Game Oracle. If there is no Winning Pool to receive 80% of Prize Pool, funds will remain in REDC wallet & undistributed ZIL will be used to grant developers or buy back REDC tokens from the exchanges to refill Locked Reward Wallets in future.
@@ -129,6 +129,7 @@ Prize Pool: Prize Pool is a sumation of ZIL amounts of all players. When a winni
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Reward = Based on ranking when game completes.`
 
 </br>
+Refer to this image below to understand Ludo Game Prize Distribution: </br>
 <img src="https://i.ibb.co/QNNQFGQ/Screen-Shot-2021-07-24-at-8-32-58-PM.png" alt="Screen-Shot-2021-07-24-at-8-32-58-PM" border="0" />
 
 <b>3. Future Games:</b>  Advanced Prediction Market - Q4 2020
