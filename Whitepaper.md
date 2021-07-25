@@ -43,7 +43,7 @@ ZilChill is a decentralized gaming platform where REDC tokens are utilized for g
 
 This platform has defined four types of users: Game Developer, Game Host, Game Player and Game Governor. 
 
-<b>Game Developer:</b> RedChillies provides grants and efficient tools for game developers to integrate games with Zilliqa blockchain in near future. Initial phase will focus on game developments curated by RedChillies Labs' core team to stabilize the ecosystem. There are 4 games in initial Phase:<br>
+<b>Game Developer:</b> RedChillies provides grants and efficient tools for game developers to integrate games with Zilliqa blockchain in near future. Initial phase will focus on game developments curated by RedChillies Labs' core team to stabilize the ecosystem. There are at least 4 games in initial Phase:<br>
 | Category -> | Prediction Market Games (PMG)             | Real-time Multiplayer Games (RMG)   | Third-party Games (TPG) |
 | ----------- | ----------------------------------------- | ----------------------------------- | :--------------------:  |
 | Q1 2021     | Peer-to-peer Sports Prediction (Football) |                    -                |            -            |
