@@ -22,7 +22,7 @@ Along with high speed and low transaction cost, Zilliqa provides top-notch ecosy
 
 
 ## Tokenomics of RedChillies token
-All native dApps of RedChillies Labs will operate in REDC token with max supply of 2 millions REDC tokens. REDC is a ZRC-2 compliant fungible token which will primarily act as a gas fee to host any games. Every hosted game will cost REDC token. RedChillies token are also distributed from leaderboard pool to max 4 parties (Game Developer, Game Host, Game Player and Game Governor); thus maintaining inflation rate and implementing fair distribution of token supply.
+All native dApps of RedChillies Labs will operate in REDC token with max supply of 2 million. REDC is a ZRC-2 compliant fungible token which will primarily act as a gas fee to host any games. Every hosted game will cost REDC token. RedChillies tokens are also distributed from leaderboard pool to max 4 parties (Game Developer, Game Host, Game Player and Game Governor); thus maintaining inflation rate and implementing fair distribution of token supply.
 
 Initial minting of 2,000,000 REDC tokens are simply distributed for locking rewards, building ecosystem and providing liquidity in exchanges (dex/cex). 1,000,000 REDC tokens are locked for distributing REDC per game played, 300,000 REDC tokens are reserved for team with vesting schedule of 24 months, 600,000 REDC tokens will be available in exchanges and 100,000 REDC tokens will be distributed in marketing campaign or bounty hunt. There will be no private sale or initial offerings of REDC tokens. When "Game Reward Locked" goes to zero, game hosting fee may get adjusted (this will be decided from voting by REDC holers).
 
