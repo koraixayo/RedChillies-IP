@@ -65,7 +65,7 @@ Initial Phase targets to develop 4 games by RedChillies Labs' team: Peer-to Peer
 
 <img src="https://i.ibb.co/SxJ90xG/Screen-Shot-2021-07-24-at-2-35-51-AM.png" alt="Screen-Shot-2021-07-24-at-2-35-51-AM" border="0" />
 
-<b>1. Peer-to-peer Sports Prediction: Football, Cricket</b> 
+<b>1. Peer-to-peer Sports Prediction: Football, Cricket, TBA</b> 
 
 >Peer-to-peer Sports Prediction Games are "live real sport events" played by users using ZIL tokens (in future to be replaced by ZRC-2 stablecoin). The launch of December 2020 included English Premier League (EPL) and UEFA Champions League game events. There are 3 sections in these Games: Games Available for Hosting, Games Ready for Prediction and Live Games Happening/Completed Games.
 
