@@ -77,7 +77,8 @@ Initial Phase targets to develop 4 games by RedChillies Labs' team: Peer-to Peer
 * Live Games Happening/Completed Games: This section displays live games happening in real time or recently completed games.
 
 Prize Pool: Prize Pool is a sumation of ZIL amounts of lost pool. When a winning player claims the reward, smart contract will distribute "initial amount" of that wallet plus prize pool amount based on percentage of bet in winning pool.</br></br>
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Amount = Prediction Amount + (80% of ZIL from Lost Pools) * (Prediction Amount/Total ZIL amount of Winning Pool)`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Host's Reward = 10% of ZIL from Lost Pools`
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Reward = Prediction Amount + (80% of ZIL from Lost Pools) * (Prediction Amount/Total ZIL amount of Winning Pool)`
 
 > If no one predicts in a hosted game or if no one predicts against another prediction, rewards are distributed under same logic of 80% to Winning Pool's wallets, 10% to Game Host, 5% to REDC Holders and 5% to Game Oracle. If there is no Winning Pool to receive 80% of Prize Pool, funds will remain in REDC wallet & undistributed ZIL will be used to grant developers or buy back REDC tokens from the exchanges to refill Locked Reward Wallets in future.
 
@@ -115,7 +116,20 @@ Ludo Dice is the first real-time multiplayer game published in ZilChill platform
 <img src="https://i.ibb.co/mTT2rRb/Screen-Shot-2021-07-13-at-11-32-38-AM.png" alt="Screen-Shot-2021-07-13-at-11-32-38-AM" border="0" />
 </br>
 
+There are also 3 sections in Ludo Dice platform: Hosting a Ludo Dice Game, Games Ready for Playing and Live Games Happening/Completed Games.
 
+* Host a Ludo Dice Game: This section displays user selection for "Number of Players" and "Joining Fee". It features "Host Now" functionality; which when clicked allows user to host that game by paying 0.1 to 10 REDC token through ZilPay or Zeeves. Such hosted games are then moved to "Games Ready for Playing" section. Hosting costs varies based on selection of ""Number of Players" and "Joining Fee". Host must open the game by paying the joining fee. All open hosted games expire after 10 minutes if no other players join the game.
+
+* Games Ready for Playing: This section displays all the hosted games. It features "Join Now" functionality which is only activated for 10 minutes after Host opens the game by joining himeself/herself; which when clicked allows user to join the game using ZIL token. A minimum of 20 ZIL is required for Ludo Dice game as joining fee depends on each game.
+
+* Live Games Happening/Completed Games: This section displays live games happening in real time or recently completed games. Anyone can spectate the live game and participate in chat message to support the players.
+
+Prize Pool: Prize Pool is a sumation of ZIL amounts of all players. When a winning player claims the reward, smart contract will distribute ZIL reward amount based on ranking of players.</br></br>
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Host's Reward = 10% of ZIL from Pools`
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Reward = Based on ranking when game completes.`
+
+</br>
+<img src="https://i.ibb.co/J271CKF/Screen-Shot-2021-07-24-at-8-27-57-PM.png" alt="Screen-Shot-2021-07-24-at-8-27-57-PM" border="0" />
 
 <b>3. Future Games:</b>  Advanced Prediction Market - Q4 2020
 
