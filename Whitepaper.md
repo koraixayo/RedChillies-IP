@@ -127,9 +127,9 @@ There are also 3 sections in Ludo Dice platform: Hosting a Ludo Dice Game, Games
 Prize Pool: Prize Pool is a sumation of ZIL amounts of all players. When a winning player claims the reward, smart contract will distribute ZIL reward amount based on ranking of players.</br></br>
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Host's Reward = 10% of ZIL from Pools`</br>
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Reward = Based on ranking when game completes.`
-
 </br>
 Refer to this image below to understand Ludo Game Prize Distribution: </br>
+
 <img src="https://i.ibb.co/QNNQFGQ/Screen-Shot-2021-07-24-at-8-32-58-PM.png" alt="Screen-Shot-2021-07-24-at-8-32-58-PM" border="0" />
 
 <b>3. Future Games:</b>  Advanced Prediction Market - Q4 2020
