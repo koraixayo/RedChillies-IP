@@ -48,7 +48,7 @@ This platform has defined four types of users: Game Developer, Game Host, Game P
 | ----------- | ----------------------------------------- | ----------------------------------- | :--------------------:  |
 | Q1 2021     | Peer-to-peer Sports Prediction (Football) |                    -                |            -            |
 | Q2 2021     | Peer-to-peer Sports Prediction (Cricket)  |                    -                |            -            |
-| Q3 2021     | Peer-to-peer Sports Prediction (NBA)      |  Ludo Dice                          |            -            |
+| Q3 2021     | Peer-to-peer Sports Prediction (NBA)      |  Ludo Dice                          |         Chess           |
 | Q4 2021     | Advanced Prediction Market (Customizable) |                    -                |            -            |
 | Q1 2022     |                             TBA           |                    -                | Scheduled (RMG)         |
 
@@ -186,4 +186,4 @@ RedChillies was initiated while brainstorming potential use cases of ZRC-2 token
 ## Team & Partnerships
 Currently 2 Blockchain Developers, 4 Full Stack Developers and 1 Operation Maintainer are working on RedChillies.
 
-We are officially in collaboration with [Zillacracy](https://zillacracy.com/)
+We are officially in collaboration with [Zillacracy](https://zillacracy.com/) and [ZilChess](https://zilchess.com)
