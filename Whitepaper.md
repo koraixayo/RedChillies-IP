@@ -65,7 +65,7 @@ Initial Phase targets to develop 4 games by RedChillies Labs' team: Peer-to Peer
 
 <img src="https://i.ibb.co/SxJ90xG/Screen-Shot-2021-07-24-at-2-35-51-AM.png" alt="Screen-Shot-2021-07-24-at-2-35-51-AM" border="0" />
 
-<b>1. Peer-to-peer Sports Prediction: Football, Cricket, TBA</b> 
+<b>1. Peer-to-peer Sports Prediction: Football, Cricket, Basketball</b> 
 
 >Peer-to-peer Sports Prediction Games are "live real sport events" played by users using ZIL tokens (in future to be replaced by ZRC-2 stablecoin). The launch of December 2020 included English Premier League (EPL) and UEFA Champions League game events. There are 3 sections in these Games: Games Available for Hosting, Games Ready for Prediction and Live Games Happening/Completed Games.
 
@@ -134,7 +134,33 @@ Refer to this image below to understand Ludo Game Prize Distribution: </br>
 
 <img src="https://i.ibb.co/QNNQFGQ/Screen-Shot-2021-07-24-at-8-32-58-PM.png" alt="Screen-Shot-2021-07-24-at-8-32-58-PM" border="0" />
 
-<b>3. Future Games:</b>  Advanced Prediction Market - Q4 2021
+<b>3. Real-time Multiplayer Games: Chess</b> 
+
+Chess is the second real-time multiplayer game published in ZilChill platform. It is developed in collaboration with ZilChess team (ZCH). Chess is a strategy board game played between 2 players. </br>
+
+<img src="https://i.ibb.co/mT" alt="Screen-Shot-2021-07-13-at-11-32-38-AM" border="0" />
+</br>
+
+There are also 3 sections in Chess platform: Hosting a Chess Game, Games Ready for Playing and Live Games Happening/Completed Games.
+
+* Host a Chess Game: This section displays user selection for "Name of Game", "Game Time" and "Joining Fee". It features "Host Now" functionality; which when clicked allows user to host that game by paying 0.1 to 10 REDC token through ZilPay or Zeeves. Such hosted games are then moved to "Games Ready for Playing" section. Hosting costs varies based on selection of "Joining Fee". Host must open the game by paying the joining fee. All open hosted games expire after 10 minutes if no other players join the game.
+
+* Games Ready for Playing: This section displays all the hosted games. It features "Join Now" functionality which is only activated for 10 minutes after Host opens the game by joining himeself/herself; which when clicked allows user to join the game using ZIL token. A minimum of 20 ZIL is required for Chess game as joining fee; and depends on each game type.
+
+* Live Games Happening/Completed Games: This section displays live games happening in real time or recently completed games. Anyone can spectate the live game and participate in chat message to support the players.
+
+Prize Pool: Prize Pool is a sumation of ZIL amounts of all players. When a winning player claims the reward, smart contract will distribute ZIL reward amount based on distribution logic.</br></br>
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Host's Reward = 5% of ZIL from Game Pool.`</br>
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Reward = 80% Pool Amount distributed.`
+![#a5f015](https://via.placeholder.com/15/a5f015/000000?text=+) `ZCH Team's Reward = 5% of ZIL from Game Pool.`
+![#b5f015](https://via.placeholder.com/15/b5f015/000000?text=+) `REDC/ZCH Governor's Reward = 5% of ZIL from Game Pool.`
+![#d5f015](https://via.placeholder.com/15/d5f015/000000?text=+) `Oracle's Reward = 5% of ZIL from Game Pool.`
+
+</br>
+
+Refer to this image below to understand Ludo Game Prize Distribution: </br>
+
+</b>  Advanced Prediction Market - Q4 2021
 
 ## Reward Mechanism of REDC Ecosystem
 
