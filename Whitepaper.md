@@ -1,7 +1,7 @@
 ## <img src="https://avatars3.githubusercontent.com/u/73444583?s=200&v=4" width = "50 px" /> RedChillies (REDC)
 RedChillies (REDC) is a governance token of ZilChill platform with utility features. The core development team is "RedChillies Labs, Inc." a US-based company that contributes in development of decentralized application to support mass adoption of blockchain technology. REDC token is used primarily in ZilChill platform for gaming and governance purposes, while there can be additional utility use-cases of REDC in collaborated dApps; making REDC a cross-chain and multi-app token.
 
-Last Updated: Oct 14, 2021 
+Last Updated: Nov 2, 2021 
 
 - [Home Page](https://redchillies.org)
 - [ZilChill Gaming Platform](https://zilchill.com)
@@ -161,16 +161,16 @@ Prize Pool: Prize Pool is a sumation of ZIL amounts of all players. When a winni
 Refer to this image below to understand Ludo Game Prize Distribution: </br>
 <img src="https://i.ibb.co/Jx1X03h/Screen-Shot-2021-11-02-at-10-27-48-AM.png" alt="Screen-Shot-2021-11-02-at-10-27-48-AM" border="0" />
 
-* Chess Game Rules & Features:
-  a) Host can choose "Game Name", "Game Time" and "Joining Fee". There are two types of Game Mode: 1-minute and 5-minutes
-  b) While hosting, host pays REDC "Hosting fee" and ZIL "Joining fee". On success, host directly enters the game page awaiting opponent.
-  c) Anyone can join such open hosted game by paying ZIL "Joining fee". Host can abort to get full refund if no one joins the game.
-  d) When a game ends, players have "Dispute" button active for 8 blocks (~5 mins). If no one disputes within 8 blocks, game is verified by Oracle.
-  e) Winners can claim rewards from "My Games" page.
-  f) If there is a Live Game which is not yet completed, player/host of such games can not host or play another game.
-  g) Anyone can spectate "Live Games" and participate in "Public Chat".
-  h) There will be "Tournament" feature and "Re-match" feature in future.
-  i) All disputed games are manually verified by Admin. Such games are expected to be resolved within 24 hours.
+* Chess Game Rules & Features:</br>
+  a) Host can choose "Game Name", "Game Time" and "Joining Fee". There are two types of Game Mode: 1-minute and 5-minutes.</br>
+  b) While hosting, host pays REDC "Hosting fee" and ZIL "Joining fee". On success, host directly enters the game page awaiting opponent.</br>
+  c) Anyone can join such open hosted game by paying ZIL "Joining fee". Host can abort to get full refund if no one joins the game.</br>
+  d) When a game ends, players have "Dispute" button active for 8 blocks (~5 mins). If no one disputes within 8 blocks, game is verified by Oracle.</br>
+  e) Winners can claim rewards from "My Games" page.</br>
+  f) If there is a Live Game which is not yet completed, player/host of such games can not host or play another game.</br>
+  g) Anyone can spectate "Live Games" and participate in "Public Chat".</br>
+  h) There will be "Tournament" feature and "Re-match" feature in future.</br>
+  i) All disputed games are manually verified by Admin. Such games are expected to be resolved within 24 hours.</br>
 
 </b>  Advanced Prediction Market - Q4 2021
 
