@@ -151,10 +151,10 @@ There are also 3 sections in Chess platform: Hosting a Chess Game, Games Ready f
 
 Prize Pool: Prize Pool is a sumation of ZIL amounts of all players. When a winning player claims the reward, smart contract will distribute ZIL reward amount based on distribution logic.</br></br>
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Host's Reward = 5% of ZIL from Game Pool.`</br>
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Reward = 80% Pool Amount distributed.`
-![#a5f015](https://via.placeholder.com/15/a5f015/000000?text=+) `ZCH Team's Reward = 5% of ZIL from Game Pool.`
-![#b5f015](https://via.placeholder.com/15/b5f015/000000?text=+) `REDC/ZCH Governor's Reward = 5% of ZIL from Game Pool.`
-![#d5f015](https://via.placeholder.com/15/d5f015/000000?text=+) `Oracle's Reward = 5% of ZIL from Game Pool.`
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Winner's Reward = 80% Pool Amount distributed.`</br>
+![#4542f5](https://via.placeholder.com/15/4542f5/000000?text=+) `ZCH Team's Reward = 5% of ZIL from Game Pool.`</br>
+![#8c8f7f](https://via.placeholder.com/15/8c8f7f/000000?text=+) `REDC/ZCH Governor's Reward = 5% of ZIL from Game Pool.`</br>
+![#fc0511](https://via.placeholder.com/15/fc0511/000000?text=+) `Oracle's Reward = 5% of ZIL from Game Pool.`</br>
 
 </br>
 
