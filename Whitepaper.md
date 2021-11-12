@@ -53,7 +53,7 @@ This platform has defined four types of users: Game Developer, Game Host, Game P
 | Q1 2022     | Peer-to-peer Local Prediction Market      |                    -                |            -            |
 | Q2 2022     | Advanced Prediction Market                |                    -                |            -            |
 | Q3 2022     | NFT Collectibles - PMG                    |       NFT Collectibles - RMG        | NFT Collectibles - TPG  |
-| Q4 2021     | Fantasy Prediction Market                 |                    -                |            -            |
+| Q4 2022     | Fantasy Prediction Market                 |                    -                |            -            |
  
 
 ZilChill will open its gaming platform for other game developers in Phase 1 scheduled on Q1 2022. There will be no impact in REDC tokenomics while transitioning from initial Phase to Phase 1. For every game played, oracle of that game receives 5% of prize pool amount.
