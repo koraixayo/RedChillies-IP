@@ -1,7 +1,7 @@
 ## <img src="https://avatars3.githubusercontent.com/u/73444583?s=200&v=4" width = "50 px" /> RedChillies (REDC)
 RedChillies (REDC) is a governance token of ZilChill platform with utility features. The core development team is "RedChillies Labs, Inc." a US-based company that contributes in development of decentralized application to support mass adoption of blockchain technology. REDC token is used primarily in ZilChill platform for gaming and governance purposes, while there can be additional utility use-cases of REDC in collaborated dApps; making REDC a cross-chain and multi-app token.
 
-Last Updated: Nov 2, 2021 
+Last Updated: Nov 12, 2021 
 
 - [Home Page](https://redchillies.org)
 - [ZilChill Gaming Platform](https://zilchill.com)
@@ -50,9 +50,11 @@ This platform has defined four types of users: Game Developer, Game Host, Game P
 | Q2 2021     | Peer-to-peer Sports Prediction (Cricket)  |                    -                |            -            |
 | Q3 2021     | Peer-to-peer Sports Prediction (NBA)      |                    -                |            -            |
 | Q4 2021     |                    -                      |               Ludo Dice             |          Chess          |
-| Q1 2022     | Advanced Prediction Market (Customizable) |                    -                | Scheduled (RMG)         |
-| Q2 2022     |           NFT Collectibles                |           NFT Collectibles          |  NFT Collectibles       |
-
+| Q1 2022     | Peer-to-peer Local Prediction Market      |                    -                |            -            |
+| Q2 2022     | Advanced Prediction Market                |                    -                |            -            |
+| Q3 2022     | NFT Collectibles - PMG                    |       NFT Collectibles - RMG        | NFT Collectibles - TPG  |
+| Q4 2021     | Fantasy Prediction Market                 |                    -                |            -            |
+ 
 
 ZilChill will open its gaming platform for other game developers in Phase 1 scheduled on Q1 2022. There will be no impact in REDC tokenomics while transitioning from initial Phase to Phase 1. For every game played, oracle of that game receives 5% of prize pool amount.
 
