@@ -50,8 +50,8 @@ This platform has defined four types of users: Game Developer, Game Host, Game P
 | Q1 2021   | p2p Football Prediction     |                    -              |            -            |          -                 |       -                 |
 | Q2 2021   | p2p Cricket Prediction      |                    -              |            -            |          -                 |       -                 |
 | Q3 2021   | p2p Basketball Prediction   |                    -              |            -            |          -                 |       -                 |
-| Q4 2021   | p2p UFF Sports Prediction   |               Ludo Dice           |          Chess          |          -                 |       -                 |
-| Q1 2022   | p2p Local Market Prediction |                    -              |            -            |          -                 |       -                 |
+| Q4 2021   |                  -          |               Ludo Dice           |          Chess          |          -                 |       -                 |
+| Q1 2022   | p2p Local Market Prediction |                    -              |p2p UFFSports Prediction |          -                 |       -                 |
 | Q2 2022   | Adv. Liquid PredictionDEX   |                    -              |            -            |          -                 |       -                 |
 | Q3 2022   | NFT Collectibles - PMG      |       NFT Collectibles - RMG      | NFT Collectibles - TPG  |          -                 |       -                 |
 | Q4 2022   |                  -          |                    -              |            -            | Fantasy Premier League     |       -                 |
