@@ -45,16 +45,16 @@ This platform has defined four types of users: Game Developer, Game Host, Game P
 
 <b>Game Developer:</b> RedChillies provides grants and efficient tools for game developers to integrate games with Zilliqa blockchain in near future. Initial phase will focus on game developments curated by RedChillies Labs' core team to stabilize the ecosystem. There are at least 4 games in initial Phase:<br>
 
-| Category  | Prediction Market Games (PMG)             | Real-time Multiplayer Games (RMG)   | Third-party Games (TPG) | Fantasy Sports Games (FSG) |
-| --------- | ----------------------------------------- | ----------------------------------- | :--------------------:  | :------------------------: |
-| Q1 2021   | Peer-to-peer Football Prediction          |                    -                |            -            |          -                 |
-| Q2 2021   | Peer-to-peer Cricket Prediction           |                    -                |            -            |          -                 |
-| Q3 2021   | Peer-to-peer Basketball Prediction        |                    -                |            -            |          -                 |
-| Q4 2021   | Peer-to-peer UFF Sports Prediction        |               Ludo Dice             |          Chess          |          -                 |
-| Q1 2022   | Peer-to-peer Local Prediction Market      |                    -                |            -            |          -                 |
-| Q2 2022   | Advanced Liquid Prediction Market         |                    -                |            -            |          -                 |
-| Q3 2022   | NFT Collectibles - PMG                    |       NFT Collectibles - RMG        | NFT Collectibles - TPG  |          -                 |
-| Q4 2022   |                  -                        |                    -                |            -            | Fantasy Premier League     |
+| Category  | Prediction Market/DEX (PMG) | Real-time Multiplayer Games (RMG) | Third-party Games (TPG) | Fantasy Sports Games (FSG) | Gaming Finance (GameFi) |
+| --------- | --------------------------- | --------------------------------- | :--------------------:  | :------------------------: | :---------------------: |
+| Q1 2021   | Peer-to-peer Football       |                    -              |            -            |          -                 |       -                 |
+| Q2 2021   | Peer-to-peer Cricket        |                    -              |            -            |          -                 |       -                 |
+| Q3 2021   | Peer-to-peer Basketball     |                    -              |            -            |          -                 |       -                 |
+| Q4 2021   | Peer-to-peer UFF Sports     |               Ludo Dice           |          Chess          |          -                 |       -                 |
+| Q1 2022   | Peer-to-peer Local Market   |                    -              |            -            |          -                 |       -                 |
+| Q2 2022   | Advanced Liquid Market      |                    -              |            -            |          -                 |       -                 |
+| Q3 2022   | NFT Collectibles - PMG      |       NFT Collectibles - RMG      | NFT Collectibles - TPG  |          -                 |       -                 |
+| Q4 2022   |                  -          |                    -              |            -            | Fantasy Premier League     |       -                 |
  
 
 ZilChill will open its gaming platform for other game developers in Phase 1 scheduled on Q1 2022. There will be no impact in REDC tokenomics while transitioning from initial Phase to Phase 1. For every game played, oracle of that game receives 5% of prize pool amount.
