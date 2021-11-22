@@ -11,3 +11,5 @@ Last Updated: Nov 21, 2021
 
 ## Introduction
 
+## Tokenomics of RedChillies token
+
