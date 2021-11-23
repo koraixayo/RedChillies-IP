@@ -16,15 +16,16 @@ As of now, users are forced to own ZIL token in ZilChill platform to play games 
 ## Tokenomics of PLAY token
 The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ERC-20 compliant fungible token.
 
-| Involved Parties for Supply                 | Token Supply (REDC)     | Percentage Own |  Distribution  |
-| ------------------------------------------- | ----------------------- | :-----------:  | :-----------:  |
-| Initial Sale                                | 300,000,000             |      30.0%     |                |
-| Initial Liquidity (Zilswap)                 | 150,000,000             |      15.0%     |                |
-| Ecosystem Building(Uniswap)                 |  15,000,000             |       1.5%     |                |
-| Ecosystem Building(C-Exchange, Marketing)   | 125,000,000             |      12.5%     |                |
-| GameFi (Lending-Borrowing) Stake Incentives | 100,000,000             |      10.0%     |     Daily      |
-| Retro Reward for REDC Community             |  10,000,000             |       1.0%     |   One-time     |
-| Liquidity Rewards (Zilswap)                 | 100,000,000             |      10.0%     |     Weekly     |
-| Team/Treasury/Advisors                      | 200,000,000             |      20.0%     |     Monthly    |
+| Involved Parties for Supply                 | Token Supply (REDC)       | Percentage Own |  Distribution  |
+| ------------------------------------------- | ------------------------- | :-----------:  | :-----------:  |
+| Initial Sale                                |   300,000,000             |      30.0%     |                |
+| Initial Liquidity (Zilswap)                 |   150,000,000             |      15.0%     |                |
+| Ecosystem Building(Uniswap)                 |    15,000,000             |       1.5%     |                |
+| Ecosystem Building(C-Exchange, Marketing)   |   125,000,000             |      12.5%     |                |
+| GameFi (Lending-Borrowing) Stake Incentives |   100,000,000             |      10.0%     |     Daily      |
+| Retro Reward for REDC Community             |    10,000,000             |       1.0%     |   One-time     |
+| Liquidity Rewards (Zilswap)                 |   100,000,000             |      10.0%     |     Weekly     |
+| Team/Treasury/Advisors                      |   200,000,000             |      20.0%     |     Monthly    |
+|                         Max Supply          | 1,000,000,000
 
 
