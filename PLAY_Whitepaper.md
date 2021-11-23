@@ -18,7 +18,7 @@ The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ER
 
 | Involved Parties for Supply                 | Token Supply (REDC)       | Percentage Own |  Distribution  |
 | ------------------------------------------- | ------------------------- | :-----------:  | :-----------:  |
-| Initial Sale                                |   300,000,000             |      30.0%     |                |
+| Initial Offerings                           |   300,000,000             |      30.0%     |                |
 | Initial Liquidity (Zilswap)                 |   150,000,000             |      15.0%     |                |
 | Ecosystem Building(Uniswap)                 |    15,000,000             |       1.5%     |                |
 | Ecosystem Building(C-Exchange, Marketing)   |   125,000,000             |      12.5%     |                |
