@@ -4,13 +4,27 @@ PLAY (PLAY) is a "Reserve Currency" token that enables multi-token denominations
 Last Updated: Nov 21, 2021   
 
 - [Home Page](https://redchillies.org)
-- [ZilChill Gaming Platform](https://zilchill.com)
+- [ZilChill Gaming Platform](https://zilchill.com) 
+- [REDC Whitepaper](https://github.com/RedChillies-Core/RedChillies-IP/blob/main/REDC_Whitepaper.md)
 
 ## Abstract
-> The future of our financial world is multi-token. There is almost no chance for any single token to rule everyone everywhere. Based on use cases, based on different communities, based on different emotions and based on different influences, there will exist many tokens. This is the world we are heading towards. While we tirelessly advocate for open, permissionless and borderless gaming platform, it is our responsibility to bring Zilliqa, Bitcoin and Ethereum communities together. Hence, we are proposing to upgrade ZilChill Gaming Platform by integrating a "Reserve Currency" into its gaming core so that users will be able to play games with ZIL, zWBTC, zETH and zUSDT without any hassle.
+> The future of our financial world is multi-token. There is almost no chance for any single token to rule everyone, everywhere. Based on different communities, based on different use cases, based on different emotions and based on different influences, there will exist many tokens. This is the world we are heading towards. While we tirelessly advocate for open, permissionless and borderless gaming platform, it is our responsibility to bring Zilliqa, Bitcoin, Ethereum and more communities together. Hence, we are proposing to upgrade ZilChill Gaming Platform by integrating a "Reserve Currency" into its gaming core so that users will be able to play games with tokens they already have, without any hassle.
 
 ## Introduction
-Accepting this multi-token future, 
+As of now, users are forced to own ZIL token in ZilChill platform to play games while there exists Zilliqa Bridge and other powerful communities of ZRC-2 tokens. Hence, we are integrating PLAY token as "Reserve Currency" in ZilChill games to open up the possibility of multi-token game-play. Initial version of this project will enable users to play games with zWBTC, zETH, zUSDT, ZIL and PlAY. And the final version of this project offers acceptances of BTC, ETH, ZIL and PLAY into ZilChill taking all the bridges and swaps outside of user-front. 
 
 ## Tokenomics of PLAY token
+The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ERC-20 compliant fungible token.
+
+| Involved Parties for Supply                 | Token Supply (REDC)     | Percentage Own |  Distribution  |
+| ------------------------------------------- | ----------------------- | :-----------:  | :-----------:  |
+| Initial Sale                                | 300,000,000             |      30.0%     |                |
+| Initial Liquidity (Zilswap)                 | 150,000,000             |      15.0%     |                |
+| Ecosystem Building(Uniswap)                 |  15,000,000             |       1.5%     |                |
+| Ecosystem Building(C-Exchange, Marketing)   | 125,000,000             |      12.5%     |                |
+| GameFi (Lending-Borrowing) Stake Incentives | 100,000,000             |      10.0%     |     Daily      |
+| Retro Reward for REDC Community             |  10,000,000             |       1.0%     |   One-time     |
+| Liquidity Rewards (Zilswap)                 | 100,000,000             |      10.0%     |     Weekly     |
+| Team/Treasury/Advisors                      | 200,000,000             |      20.0%     |     Monthly    |
+
 
