@@ -11,10 +11,10 @@ Last Updated: Nov 21, 2021
 > The future of our financial world is multi-token. There is almost no chance for any single token to rule everyone, everywhere. Based on different communities, based on different use cases, based on different emotions and based on different influences, there will exist many tokens. This is the world we are heading towards. While we tirelessly advocate for open, permissionless and borderless gaming platform, it is our responsibility to bring Zilliqa, Bitcoin, Ethereum and more communities together. Hence, we are proposing to upgrade ZilChill Gaming Platform by integrating a "Reserve Currency" into its gaming core so that users will be able to play games with tokens they already have, without any hassle.
 
 ## Introduction
-As of now, users are forced to own ZIL token in ZilChill platform to play games while there exists Zilliqa Bridge and other powerful communities of ZRC-2 tokens. Hence, we are integrating PLAY token as "Reserve Currency" in ZilChill games to open up the possibility of multi-token game-play. Initial version of this project will enable users to play games with zWBTC, zETH, zUSDT, ZIL and PlAY. And the final version of this project offers acceptances of BTC, ETH, ZIL and PLAY into ZilChill taking all the bridges and swaps outside of user-front. 
+As of now, users are forced to own ZIL token in ZilChill platform to play games while there exists Zilliqa Bridge and other powerful communities of ZRC-2 tokens. Hence, we are integrating PLAY token as "Reserve Currency" in ZilChill games to open up the possibility of multi-token game-play. Initial version of this project will enable users to play games with zWBTC, zETH, zUSDT, ZIL and PLAY. And the final version of this project offers acceptances of BTC, ETH, ZIL and PLAY into ZilChill taking all the bridges and swaps outside of user-front. 
 
 ## Tokenomics of PLAY token
-The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ERC-20 compliant fungible token.
+The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ERC-20 compliant fungible token. There are two types of community rewards for users to earn PLAY tokens: (a) Liquidity Rewards for market makers (b) GameFi (Deposit/Lending-Borrowing) Incentives
 
 | Involved Parties for Supply                 | Token Supply (REDC)       | Percentage Own |  Distribution  |
 | ------------------------------------------- | ------------------------- | :-----------:  | :-----------:  |
@@ -26,6 +26,10 @@ The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ER
 | Retro Reward for REDC Community             |    10,000,000             |       1.0%     |   One-time     |
 | Liquidity Rewards (Zilswap, DEX, CEX)       |   100,000,000             |      10.0%     |     Weekly     |
 | Team/Treasury/Advisors                      |   200,000,000             |      20.0%     |     Monthly    |
-|                         Max Supply          | 1,000,000,000
+|                         Max Supply          | 1,000,000,000             |                |                |
+
+## Gaming Mechanism in ZilChill with PLAY Token
+
+## GameFi (Deposit/Lending-Borrowing) Incentives
 
 
