@@ -30,6 +30,8 @@ The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ER
 
 ## Gaming Mechanism in ZilChill with PLAY Token
 
+## Reserve Currency System & Multi-Token Economics
+
 ## GameFi (Deposit/Lending-Borrowing) Incentives
 
 
