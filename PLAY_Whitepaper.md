@@ -36,7 +36,7 @@ With the introduction of PLAY token as "Reserve Currency" of ZilChill Platform, 
 ## PredictionDEX of ZilChill
 A decentralized exchange for trading and swapping conditional-tokenized predictions is PredictionDEX of ZilChill. This DEX is similar to Uniswap or Zilswap with AMM feature but the trade happens for conditional tokens of outcomes of events. This project delivers an autonomous market making (AMM) application by leveraging the power of decentralization to make reliable forecast. This will also become a hedging tool against unexpected event outcomes based on socio-political changes. PLAY token acts as reserve currency and base pair of all outcomes in PredictionDEX.
 
-How is market created? 
+*How is market created?*
 
 Markets in PredcitionDEX are always created by Users 
 
@@ -55,25 +55,23 @@ h. Information source [ URL with paragraph - optional]: User-Input
 
 Market creator gets 10 Loyalty Points if approved from voting. 
 
-How is market available to users? 
+*How is market available to users?*
 
 Availability of market to users means “user will have opportunity to host the market for collecting 10% of pool prize”. 
 
 Markets created by “Users” need to meet voting requirements and then they are available for all users to host via bidding mechanism on “Liquidity Factor”. Bidding opens for 24 hours and the bidder with highest bid on Liquidity is declared as “Host”.  
 
-While bidding for Host, SC must charge “REDC” fee + “Liquidity Bid Amount” together. Bid losers can claim both REDC fee + Liquidity Bid Amount when bidding expires. 
-
- 
+While bidding for Host, SC must charge “REDC” fee + “Liquidity Bid Amount” together. Bid losers can claim both REDC fee + Liquidity Bid Amount when bidding expires.  
 
 Host spends 0.1 REDC – 1.0 REDC for a game.  
 
 Hosted games will offer 3 features:  
 
-a) Accept Ads – Host can enable this by paying 20 ZIL. Host can advertise or accept other ads forever and receive 100% of ad revenue. 20 ZIL fee goes to Oracle + Governor. This feature gets locked before 24 hours of market expiration.  
+a) Accept Ads – Host can enable this by paying 100 PLAY. Host can advertise for free or accept other ads and receive 80% of ad revenue. 100 PLAY as fee + 20% ad revenue goes to Oracle + Governor. This feature gets locked before 24 hours of market expiration.  
 
-b) Promote Market – Host can enable this by paying 100 ZIL. Promoted market are listed on home page “Sponsored” section. 100 ZIL fee goes to Oracle + Governor. This feature gets locked before 24 hours of market expiration.  
+b) Promote Market – Host can enable this by paying "current placement bid + 1 PLAY". Promoted market are listed on home page “Sponsored” section for 24 hours. All fee goes to Oracle + Governor. This feature gets locked before 24 hours of market expiration.  
 
-C) NFT Mint Coupon – Anyone can bid on Hosted game for winning NFT Mint Coupon before 24 hours of market expiration. Bid price starts from 20 ZIL. Winner gets 1 NFT Mint Coupon that can be used for “random minting” or “minting that bided game”. NFT Owner can unlock “Accept Ads” for game page ownership. Bid paid amount goes to Oracle + Governor. This feature gets locked before 24 hours of market expiration.  
+C) NFT Mint Coupon – Anyone can bid on Hosted game for winning NFT Mint Coupon before 24 hours of market expiration. Bid price starts from 100 PLAY. Winner gets 1 NFT Mint Coupon that can be used for “random minting” or “minting that bided game”. NFT Owner can unlock “Accept Ads” for game page ownership. Bid paid amount goes to Oracle + Governor. This feature gets locked before 24 hours of market expiration.  
 
 Host receives 10% of 2.5% of every trades directly sent to wallet. 
 
@@ -83,23 +81,21 @@ APM Markets can open up to 1 year maximum & for 72 hours (3 days) minimum from t
 
  
 
-How is market traded + liquidity provided – Conditional Tokens? 
+*How is market traded + liquidity provided – Conditional Tokens?*
 
-Users can use ZIL token to buy the prediction shares on “option/condition” of market. Users can trade their prediction share any time before market gets expired or resolved. When expired or resolved, only the “correct” prediction shares can be redeemed for value 1. 
+Users can use PLAY token to buy the prediction shares on “option/condition” of market. Users can trade their prediction share any time before market gets expired or resolved. When expired or resolved, only the “correct” prediction shares can be redeemed for value 1. 
 
-Prediction Shares can be traded in this format.  
+Prediction Shares can be traded to any verified markets of PredictionDEX.  
 
 Users can provide liquidity to the market to receives “their contribution %” of 80% of 2.5% of all trades. 
 
 [info on trading + liquidity] 
 
-A source of revenue is generated through 1 process before 24 hours of market expiration time or immediately when resolved by “condition met”: (a) Bidding on NFT Game Page ownership – starts with 20 ZIL (threshold). Bid winner can choose either “Game page Ownership” or “Fresh Minting Coupon”. 
+A source of revenue is generated through 1 process before 24 hours of market expiration time or immediately when resolved by “condition met”: (a) Bidding on NFT Game Page ownership – starts with 100 PLAY (threshold). Bid winner can choose either “Game page Ownership” or “Fresh Minting Coupon”. 
 
 If there is no Game page ownership, NFT goes into “Un-minted NFT Pool”. The bid amount goes to Oracle + Governor. 
 
- 
-
-How is market resolved? 
+*How is market resolved?*
 
 Markets are resolved by 2 processes: (a) Market Expiration Condition (b) Market Resolution Met Condition 
 
@@ -135,6 +131,7 @@ GQR receives 5% and Oracle receives 5% of 2.5% of all trades. REDC Holders need 
 
 
 ## GameFi (Deposit/Lending-Borrowing) Incentives
+
 
 ## 
 
