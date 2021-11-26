@@ -13,22 +13,7 @@ Last Updated: Nov 21, 2021
 ## Introduction
 As of now, users are forced to own ZIL token in ZilChill platform to play games while there exists Zilliqa Bridge and other powerful communities of ZRC-2 tokens. Hence, we are integrating PLAY token as "Reserve Currency" in ZilChill games to open up the possibility of multi-token game-play. Initial version of this project will enable users to play games with zWBTC, zETH, zUSDT, ZIL and PLAY. And the final version of this project offers acceptances of BTC, ETH, ZIL and PLAY into ZilChill taking all the bridges and swaps outside of user-front. 
 
-## Tokenomics of PLAY token
-The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ERC-20 compliant fungible token. There are two types of community rewards for users to earn PLAY tokens: (a) Liquidity Rewards for market makers (b) GameFi (Deposit/Lending-Borrowing) Incentives
-
-| Involved Parties for Supply                 | Token Supply (REDC)       | Percentage Own |  Distribution  |
-| :-----------------------------------------: | :-----------------------: | :-----------:  | :-----------:  |
-| Initial Offerings                           |   300,000,000             |      30.0%     |                |
-| Initial Liquidity (Zilswap)                 |   150,000,000             |      15.0%     |                |
-| Ecosystem Building(Uniswap)                 |    15,000,000             |       1.5%     |                |
-| Ecosystem Building(C-Exchange, Marketing)   |   125,000,000             |      12.5%     |                |
-| GameFi (Lending-Borrowing) Stake Incentives |   100,000,000             |      10.0%     |     Daily      |
-| Retro Reward for REDC Community             |    10,000,000             |       1.0%     |   One-time     |
-| Liquidity Rewards (Zilswap, DEX, CEX)       |   100,000,000             |      10.0%     |     Weekly     |
-| Team/Treasury/Advisors                      |   200,000,000             |      20.0%     |     Monthly    |
-|                         Max Supply          | 1,000,000,000             |                |                |
-
-## Reserve Currency System & Multi-Token Economics: Gaming Mechanism in ZilChill with PLAY Token
+## Reserve Currency System & Multi-Token Economics
 ZilChill Gaming Platform offers various multi-player games, PredictionDEX, p2p Prediction Markets, Player's Profile Build, Collectibles, Fantasy Games and supports GameFi for lending and borrowing options. In Scorpio Phase of ZilChill (2021), users were able to create or host games using REDC token; joining or playing fee was transacted in ZIL token and same ZIL tokens were used for rewards. 
 
 With the introduction of PLAY token as "Reserve Currency" of ZilChill Platform, multi-token game playing is enabled. PLAY token acts as Reserve Currency of ZilChill while players are able to use ZIL, PLAY, zWBTC, zETH, and zUSDT. For chess game, ZCH token can be used to play, and for UFF Sports, SCO token can be used to play games. Winners are by default rewarded in PLAY token while there can be other tokens in some collaborated games for prize withdrawl.
@@ -133,7 +118,27 @@ GQR receives 5% and Oracle receives 5% of 2.5% of all trades. REDC Holders need 
 
 ## GameFi (Deposit/Lending-Borrowing) Incentives
 
+The GameFi platform of ZilChill allows users to deposit or borrow REDC and PLAY tokens at varying interest rates depending on the GameFi programs. For borrowing REDC or PLAY token, GameFi smart contract accepts ZIL, zWBTC, zETH, zUSDT, gZIL, REDC and PLAY tokens only as collateral.
 
-## 
+## PLAY Token For Gaming Mechanism in ZilChill
+Level up player - player's profile
+
+## Collectibles & Marketplace of ZilChill
+
+## Tokenomics of PLAY token
+The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ERC-20 compliant fungible token. There are two types of community rewards for users to earn PLAY tokens: (a) Liquidity Rewards for market makers (b) GameFi (Deposit/Lending-Borrowing) Incentives
+
+| Involved Parties for Supply                 | Token Supply (REDC)       | Percentage Own |  Distribution  |
+| :-----------------------------------------: | :-----------------------: | :-----------:  | :-----------:  |
+| Initial Offerings                           |   300,000,000             |      30.0%     |                |
+| Initial Liquidity (Zilswap)                 |   150,000,000             |      15.0%     |                |
+| Ecosystem Building(Uniswap)                 |    15,000,000             |       1.5%     |                |
+| Ecosystem Building(C-Exchange, Marketing)   |   125,000,000             |      12.5%     |                |
+| GameFi (Lending-Borrowing) Stake Incentives |   100,000,000             |      10.0%     |     Daily      |
+| Retro Reward for REDC Community             |    10,000,000             |       1.0%     |   One-time     |
+| Liquidity Rewards (Zilswap, DEX, CEX)       |   100,000,000             |      10.0%     |     Weekly     |
+| Team/Treasury/Advisors                      |   200,000,000             |      20.0%     |     Monthly    |
+|                         Max Supply          | 1,000,000,000             |                |                |
+
 
 
