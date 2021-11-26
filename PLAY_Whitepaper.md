@@ -81,6 +81,7 @@ A source of revenue is generated through 1 process before 24 hours of market exp
 
 If there is no Game page ownership, NFT goes into “Un-minted NFT Pool”. The bid amount goes to Oracle + Governor. 
 
+
 **How is market resolved?**
 
 Markets are resolved by 2 processes: (a) Market Expiration Condition (b) Market Resolution Met Condition 
@@ -102,8 +103,9 @@ If a user disputes, user needs to deposit 100 REDC collateral. Resolution is the
 Once the dispute is resolved, “Governor/Maintainer” will update the result and “Dispute Governor” button becomes active for 6 hours. If no one disputes, Oracle will trigger the correct result set by Governor/Maintainer to turn the market “Verified”. 
 
 For “Dispute Governor”, it costs 100 REDC collateral. This will create appeal in “Governance Portal” for finality in case of disagreement with “Governor/Maintainer” where official REDC voting takes place. 
+
  
-How is reward paid out? 
+**How is reward paid out?** 
 
 All “Verified” markets are considered resolved and "correct” shares can be redeemed for value 1. 
 
