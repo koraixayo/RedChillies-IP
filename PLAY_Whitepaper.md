@@ -36,7 +36,7 @@ With the introduction of PLAY token as "Reserve Currency" of ZilChill Platform, 
 ## PredictionDEX of ZilChill
 A decentralized exchange for trading and swapping conditional-tokenized predictions is PredictionDEX of ZilChill. This DEX is similar to Uniswap or Zilswap with AMM feature but the trade happens for conditional tokens of outcomes of events. This project delivers an autonomous market making (AMM) application by leveraging the power of decentralization to make reliable forecast. This will also become a hedging tool against unexpected event outcomes based on socio-political changes. PLAY token acts as reserve currency and base pair of all outcomes in PredictionDEX.
 
-*How is market created?*
+**How is market created?**
 
 Markets in PredcitionDEX are always created by Users 
 
@@ -53,9 +53,10 @@ f. Resolution case + source [ URL] --> Winner must be only 1 “condition”: Us
 g. Market Trading Kickstart (starts receiving prediction) + Expiration Timestamp (stops receiving prediction): pre-defined 
 h. Information source [ URL with paragraph - optional]: User-Input 
 
-Market creator gets 10 Loyalty Points if approved from voting. 
+Market creator gets 10 Loyalty Points if approved from voting.
 
-*How is market available to users?*
+
+**How is market available to users?**
 
 Availability of market to users means “user will have opportunity to host the market for collecting 10% of pool prize”. 
 
@@ -81,7 +82,7 @@ APM Markets can open up to 1 year maximum & for 72 hours (3 days) minimum from t
 
  
 
-*How is market traded + liquidity provided – Conditional Tokens?*
+**How is market traded + liquidity provided – Conditional Tokens?**
 
 Users can use PLAY token to buy the prediction shares on “option/condition” of market. Users can trade their prediction share any time before market gets expired or resolved. When expired or resolved, only the “correct” prediction shares can be redeemed for value 1. 
 
@@ -95,7 +96,7 @@ A source of revenue is generated through 1 process before 24 hours of market exp
 
 If there is no Game page ownership, NFT goes into “Un-minted NFT Pool”. The bid amount goes to Oracle + Governor. 
 
-*How is market resolved?*
+**How is market resolved?**
 
 Markets are resolved by 2 processes: (a) Market Expiration Condition (b) Market Resolution Met Condition 
 
