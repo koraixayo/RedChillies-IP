@@ -140,7 +140,7 @@ The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ER
 | Retro Reward for REDC Community             |    10,000,000             |       1.0%     |   One-time     |
 | Liquidity Rewards (Zilswap, DEX, CEX)       |   100,000,000             |      10.0%     |     Weekly     |
 | Team/Treasury/Advisors                      |   200,000,000             |      20.0%     |     Monthly    |
-|                         Max Supply          | 1,000,000,000             |                |                |
+|                     **Max Supply**          | 1,000,000,000             |                |                |
 
 
 
