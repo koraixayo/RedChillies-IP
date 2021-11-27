@@ -132,7 +132,7 @@ These are some of the tentative roadmaps. PLAY token gets fully integrated into 
 | Q2 2021   | p2p Cricket Prediction      |                    -              |            -            |          -                 |       -                 |
 | Q3 2021   | p2p Basketball Prediction   |                    -              |            -            |          -                 |       -                 |
 | Q4 2021   |                  -          |               Ludo Dice           |          Chess          |          -                 |       -                 |
-| Q1 2022   | p2p Local Market Prediction |                    -              |p2p UFFSports Prediction |          -                 |       -                 |
+| Q1 2022   | p2p Prediction Market - PLAY |                    -              |p2p UFFSports Prediction |          -                 |       -                 |
 | Q2 2022   | Adv. Liquid PredictionDEX   |                    -              |            -            |          -                 |       -                 |
 | Q3 2022   | NFT Collectibles - PMG      |       NFT Collectibles - RMG      | NFT Collectibles - TPG  |          -                 |  Lending/Borrowing      |
 | Q4 2022   |                  -          |                    -              |            -            | Fantasy Premier League     |       -                 |
