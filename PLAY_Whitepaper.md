@@ -23,9 +23,7 @@ A decentralized exchange for trading and swapping conditional-tokenized predicti
 
 **How is market created?**
 
-Markets in PredcitionDEX are always created by Users 
-
-These markets are kept for REDC voting for 24 hours. Each market needs to get at least 1,000 REDC votes (on theory 10 governors with 100 REDC) and must achieve positive favors with 10% margin.  
+Markets in PredcitionDEX are always created by Users. These markets are kept for REDC voting for 24 hours. Each market needs to get at least 1,000 REDC votes (on theory 10 governors with 100 REDC) and must achieve positive favors with 10% margin.  
 
 All markets must have 8 info submitted: 
 
@@ -43,13 +41,7 @@ Market creator gets 10 Loyalty Points if approved from voting.
 
 **How is market available to users?**
 
-Availability of market to users means “user will have opportunity to host the market for collecting 10% of pool prize”. 
-
-Markets created by “Users” need to meet voting requirements and then they are available for all users to host via bidding mechanism on “Liquidity Factor”. Bidding opens for 24 hours and the bidder with highest bid on Liquidity is declared as “Host”.  
-
-While bidding for Host, SC must charge “REDC” fee + “Liquidity Bid Amount” together. Bid losers can claim both REDC fee + Liquidity Bid Amount when bidding expires.  
-
-Host spends 0.1 REDC – 1.0 REDC for a game.  
+Availability of market to users means “user will have opportunity to host the market for collecting 10% of pool prize”. Markets created by “Users” need to meet voting requirements and then they are available for all users to host via bidding mechanism on “Liquidity Factor”. Bidding opens for 24 hours and the bidder with highest bid on Liquidity is declared as “Host”. While bidding for Host, SC must charge “REDC” fee + “Liquidity Bid Amount” together. Bid losers can claim both REDC fee + Liquidity Bid Amount when bidding expires. Host spends 0.1 REDC – 1.0 REDC for a game.  
 
 Hosted games will offer 3 features:  
 
@@ -59,36 +51,23 @@ b) Promote Market – Host can enable this by paying "current placement bid + 1 
 
 C) NFT Mint Coupon – Anyone can bid on Hosted game for winning NFT Mint Coupon before 24 hours of market expiration. Bid price starts from 100 PLAY. Winner gets 1 NFT Mint Coupon that can be used for “random minting” or “minting that bided game”. NFT Owner can unlock “Accept Ads” for game page ownership. Bid paid amount goes to Oracle + Governor. This feature gets locked before 24 hours of market expiration.  
 
-Host receives 10% of 2.5% of every trades directly sent to wallet. 
-
-All APM market, which are hosted, opens for limited time as they must come with opening + expiration timestamp.  
-
-APM Markets can open up to 1 year maximum & for 72 hours (3 days) minimum from the submission date. 
-
+Host receives 10% of 2.5% of every trades directly sent to wallet. All APM market, which are hosted, opens for limited time as they must come with opening + expiration timestamp. APM Markets can open up to 1 year maximum & for 72 hours (3 days) minimum from the submission date. 
  
 
 **How is market traded + liquidity provided – Conditional Tokens?**
 
-Users can use PLAY token to buy the prediction shares on “option/condition” of market. Users can trade their prediction share any time before market gets expired or resolved. When expired or resolved, only the “correct” prediction shares can be redeemed for value 1. 
-
-Prediction Shares can be traded to any verified markets of PredictionDEX.  
-
-Users can provide liquidity to the market to receives “their contribution %” of 80% of 2.5% of all trades. 
+Users can use PLAY token to buy the prediction shares on “option/condition” of market. Users can trade their prediction share any time before market gets expired or resolved. When expired or resolved, only the “correct” prediction shares can be redeemed for value 1. Prediction Shares can be traded to any verified markets of PredictionDEX. Users can provide liquidity to the market to receives “their contribution %” of 80% of 2.5% of all trades. 
 
 [info on trading + liquidity] 
 
-A source of revenue is generated through 1 process before 24 hours of market expiration time or immediately when resolved by “condition met”: (a) Bidding on NFT Game Page ownership – starts with 100 PLAY (threshold). Bid winner can choose either “Game page Ownership” or “Fresh Minting Coupon”. 
-
-If there is no Game page ownership, NFT goes into “Un-minted NFT Pool”. The bid amount goes to Oracle + Governor. 
+A source of revenue is generated through 1 process before 24 hours of market expiration time or immediately when resolved by “condition met”: (a) Bidding on NFT Game Page ownership – starts with 100 PLAY (threshold). Bid winner can choose either “Game page Ownership” or “Fresh Minting Coupon”. If there is no Game page ownership, NFT goes into “Un-minted NFT Pool”. The bid amount goes to Oracle + Governor. 
 
 
 **How is market resolved?**
 
 Markets are resolved by 2 processes: (a) Market Expiration Condition (b) Market Resolution Met Condition 
 
-Resolution of markets created by “Users”: 
-
-These markets (APM) can be resolved by the process of “Expiration” or “Resolution Met Condition”.  
+Resolution of markets created by “Users”: These markets can be resolved by the process of “Expiration” or “Resolution Met Condition”.  
 
 (a) Resolution Met Condition: When these “Users” created markets are live for prediction trading, “Request Resolution” button becomes active. Any user can click “Request Resolution” by paying 10 REDC as collateral. “Governor/Maintainer” will check such request. If found valid, requester receives 10 REDC + 100 Loyalty Points back. This will turn market status “Finished” with 1st answer from “Governor/Maintainer” and “Dispute Resolution” button becomes active for 6 hours. 
 
@@ -107,13 +86,7 @@ For “Dispute Governor”, it costs 100 REDC collateral. This will create appea
  
 **How is reward paid out?** 
 
-All “Verified” markets are considered resolved and "correct” shares can be redeemed for value 1. 
-
-Host is auto-paid 10% of 2.5% of all trades. 
-
-Liquidity providers are paid 80% of 2.5% of all trades 
-
-Winners can redeem for value of 1. Losers’ shares become worthless (0). 
+All “Verified” markets are considered resolved and "correct” shares can be redeemed for value 1. Host is auto-paid 10% of 2.5% of all trades. Liquidity providers are paid 80% of 2.5% of all trades. Winners can redeem for value of 1. Losers’ shares become worthless (0). 
 
 GQR receives 5% and Oracle receives 5% of 2.5% of all trades. REDC Holders need to claim for GQR.
 
