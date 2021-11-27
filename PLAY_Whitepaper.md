@@ -117,3 +117,17 @@ The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ER
 
 
 100% of the REDC and PLAY tokens utilized in ZilChill platforms are recycled back to the ecosystem as rewards for game winners, hosts, oracles and governors. RedChillies Labs does not charge anything on any of its application.
+
+## Roadmaps & Milestones
+
+| Category  | Prediction Market/DEX (PMG) | Real-time Multiplayer Games (RMG) | Third-party Games (TPG) | Fantasy Sports Games (FSG) | Gaming Finance (GameFi) |
+| --------- | --------------------------- | --------------------------------- | :--------------------:  | :------------------------: | :---------------------: |
+| Q1 2021   | p2p Football Prediction     |                    -              |            -            |          -                 |       -                 |
+| Q2 2021   | p2p Cricket Prediction      |                    -              |            -            |          -                 |       -                 |
+| Q3 2021   | p2p Basketball Prediction   |                    -              |            -            |          -                 |       -                 |
+| Q4 2021   |                  -          |               Ludo Dice           |          Chess          |          -                 |       -                 |
+| Q1 2022   | p2p Local Market Prediction |                    -              |p2p UFFSports Prediction |          -                 |       -                 |
+| Q2 2022   | Adv. Liquid PredictionDEX   |                    -              |            -            |          -                 |       -                 |
+| Q3 2022   | NFT Collectibles - PMG      |       NFT Collectibles - RMG      | NFT Collectibles - TPG  |          -                 |  Lending/Borrowing      |
+| Q4 2022   |                  -          |                    -              |            -            | Fantasy Premier League     |       -                 |
+
