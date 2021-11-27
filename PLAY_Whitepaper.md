@@ -96,9 +96,13 @@ GQR receives 5% and Oracle receives 5% of 2.5% of all trades. REDC Holders need 
 The GameFi platform of ZilChill allows users to deposit or borrow REDC and PLAY tokens at varying interest rates depending on the GameFi programs. For borrowing REDC or PLAY token, GameFi smart contract accepts ZIL, zWBTC, zETH, zUSDT, gZIL, REDC and PLAY tokens only as collateral. Users can utilize their borrowed REDC token or PLAY token to create or host games or to play games. 
 
 ## PLAY Token For Gaming Mechanism in ZilChill
-Level up player - player's profile
+All players and host of ZilChill games are designed to build a gaming mechanism where PLAY tokens get integrated for Leveling Up in ZilChill Gaming Metaverse. "Player's Profile" project incorporates this metaverse. 
 
-## Collectibles & Marketplace of ZilChill
+## Fantasy Games, Collectibles & Marketplace of ZilChill
+ZilChill will launch Fantasy Games in parallel to further boost the real sports. All games of ZilChill are by default minted as a NFT with feature of game page ownership and sponsorship. On top of game page, gaming collectibles as NFTs are awarded for acheiving certain milestones or skill-sets. All NFTs are presented as a reward that can't be minted by monetary value without certain skill-sets. 
+
+These NFTs may be available for resale or auction in other marketplaces like Mintable and zilswap's ARK. Collectibles of ZilChill can have additional utilities in Fantasy Games and Multiplayer Games of ZilChill.
+
 
 ## Tokenomics of PLAY token
 The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ERC-20 compliant fungible token. There are two types of community rewards for users to earn PLAY tokens: (a) Liquidity Rewards for market makers (b) GameFi (Deposit/Lending-Borrowing) Incentives
