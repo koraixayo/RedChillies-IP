@@ -93,7 +93,7 @@ GQR receives 5% and Oracle receives 5% of 2.5% of all trades. REDC Holders need 
 
 ## GameFi (Deposit/Lending-Borrowing) in ZilChill
 
-The GameFi platform of ZilChill allows users to deposit or borrow REDC and PLAY tokens at varying interest rates depending on the GameFi programs. For borrowing REDC or PLAY token, GameFi smart contract accepts ZIL, zWBTC, zETH, zUSDT, gZIL, REDC and PLAY tokens only as collateral. Users can utilize their borrow REDC token or PLAY token to create or host games or to play games. 
+The GameFi platform of ZilChill allows users to deposit or borrow REDC and PLAY tokens at varying interest rates depending on the GameFi programs. For borrowing REDC or PLAY token, GameFi smart contract accepts ZIL, zWBTC, zETH, zUSDT, gZIL, REDC and PLAY tokens only as collateral. Users can utilize their borrowed REDC token or PLAY token to create or host games or to play games. 
 
 ## PLAY Token For Gaming Mechanism in ZilChill
 Level up player - player's profile
