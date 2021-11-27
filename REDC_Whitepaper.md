@@ -53,9 +53,8 @@ This platform has defined four types of users: Game Developer, Game Host, Game P
 | Q4 2021   |                  -          |               Ludo Dice           |          Chess          |          -                 |       -                 |
 | Q1 2022   | p2p Local Market Prediction |                    -              |p2p UFFSports Prediction |          -                 |       -                 |
 | Q2 2022   | Adv. Liquid PredictionDEX   |                    -              |            -            |          -                 |       -                 |
-| Q3 2022   | NFT Collectibles - PMG      |       NFT Collectibles - RMG      | NFT Collectibles - TPG  |          -                 |       -                 |
+| Q3 2022   | NFT Collectibles - PMG      |       NFT Collectibles - RMG      | NFT Collectibles - TPG  |          -                 |  Lending/Borrowing      |
 | Q4 2022   |                  -          |                    -              |            -            | Fantasy Premier League     |       -                 |
-| -  2022   |                  -          |                    -              |            -            |          -                 |  Lending/Borrowing      |
  
 
 ZilChill will open its gaming platform for other game developers in Phase 1 scheduled on Q1 2022. There will be no impact in REDC tokenomics while transitioning from initial Phase to Phase 1. For every game played, oracle of that game receives 5% of prize pool amount.
