@@ -133,3 +133,8 @@ These are some of the tentative roadmaps. PLAY token gets fully integrated into 
 | Q3 2022   | NFT Collectibles - PMG      |       NFT Collectibles - RMG      | NFT Collectibles - TPG  |          -                 |  Lending/Borrowing      |
 | Q4 2022   |                  -          |                    -              |            -            | Fantasy Premier League     |       -                 |
 
+## Team & Partnerships
+Currently 4 Blockchain Developers, 5 Full Stack Developers and 2 Operation Maintainer are working on RedChillies.
+
+We are officially in collaboration with [IgniteDAO](https://zillacracy.com/), [ZilChess](https://zilchess.com), [Review Capital](https://reviewcapital.org), [ZilHive](https://zilhive.org) and [UFF Sports](https://uffsports.com)
+
