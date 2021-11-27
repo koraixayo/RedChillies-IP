@@ -229,4 +229,4 @@ RedChillies was initiated while brainstorming potential use cases of ZRC-2 token
 ## Team & Partnerships
 Currently 2 Blockchain Developers, 4 Full Stack Developers and 1 Operation Maintainer are working on RedChillies.
 
-We are officially in collaboration with [Zillacracy](https://zillacracy.com/) and [ZilChess](https://zilchess.com)
+We are officially in collaboration with [IgniteDAO](https://zillacracy.com/) and [ZilChess](https://zilchess.com)
