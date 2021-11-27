@@ -120,6 +120,8 @@ The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ER
 
 ## Roadmaps & Milestones
 
+These are some of the tentative roadmaps. PLAY token gets fully integrated into ZilChill in early Q1 2022.
+
 | Category  | Prediction Market/DEX (PMG) | Real-time Multiplayer Games (RMG) | Third-party Games (TPG) | Fantasy Sports Games (FSG) | Gaming Finance (GameFi) |
 | --------- | --------------------------- | --------------------------------- | :--------------------:  | :------------------------: | :---------------------: |
 | Q1 2021   | p2p Football Prediction     |                    -              |            -            |          -                 |       -                 |
