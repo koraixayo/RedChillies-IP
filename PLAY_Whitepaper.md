@@ -143,4 +143,4 @@ The total supply (max supply) of PLAY token is 1 billion. PLAY is a ZRC-2 and ER
 |                     **Max Supply**          | 1,000,000,000             |                |                |
 
 
-
+100% of the REDC and PLAY tokens utilized in ZilChill platforms are recycled back to the ecosystem as rewards for game winners, hosts, oracles and governors. RedChillies Labs does not charge anything on any of its application.
