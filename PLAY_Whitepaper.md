@@ -25,16 +25,16 @@ A decentralized exchange for trading and swapping conditional-tokenized predicti
 
 Markets in PredcitionDEX are always created by Users. These markets are kept for REDC voting for 24 hours. Each market needs to get at least 1,000 REDC votes (on theory 10 governors with 100 REDC) and must achieve positive favors with 10% margin.  
 
-All markets must have 8 info submitted: 
+All markets must have 8 info submitted: <br><br>
 
-a. Category [ Sports, Politics, Finance, Housing, Crypto, Science, Social, Environment]: Pre-defined 
-b. Sub-category [ Eg; league names; if no sub-category, use this for Hashtag]: User-input 
-c. Location [ Specific City, Country, World-wide]: Pre-defined with type-ahead 
-d. Title [Limited to characters]: User-Input 
-e. Conditions [ Yes or No or Optionals limited to 5]: Y/N -> Pre-defined; Options -> User-input 
-f. Resolution case + source [ URL] --> Winner must be only 1 “condition”: User-Input 
-g. Market Trading Kickstart (starts receiving prediction) + Expiration Timestamp (stops receiving prediction): pre-defined 
-h. Information source [ URL with paragraph - optional]: User-Input 
+a. Category [ Sports, Politics, Finance, Housing, Crypto, Science, Social, Environment]: Pre-defined <br>
+b. Sub-category [ Eg; league names; if no sub-category, use this for Hashtag]: User-input <br>
+c. Location [ Specific City, Country, World-wide]: Pre-defined with type-ahead <br>
+d. Title [Limited to characters]: User-Input <br>
+e. Conditions [ Yes or No or Optionals limited to 5]: Y/N -> Pre-defined; Options -> User-input <br>
+f. Resolution case + source [ URL] --> Winner must be only 1 “condition”: User-Input <br>
+g. Market Trading Kickstart (starts receiving prediction) + Expiration Timestamp (stops receiving prediction): pre-defined <br>
+h. Information source [ URL with paragraph - optional]: User-Input <br><br>
 
 Market creator gets 10 Loyalty Points if approved from voting.
 
